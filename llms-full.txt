@@ -1,0 +1,1062 @@
+# Humanmedizin in Zahlen: alle Artikel im Volltext
+
+> Zahlen zu Arztpraxen, Praxisverwaltungssystemen und Gesundheits-IT in Deutschland, jede mit Jahr und Quelle.
+
+Quelle: https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html · Humanmedizin in Zahlen, Thomas Freimoser
+
+# Praxisverwaltungssysteme in Deutschland: Übersicht und Anteile
+
+Ende 2025 zählt die Kassenärztliche Bundesvereinigung (KBV) 116.954 Installationen von
+Praxisverwaltungssystemen in 126 Zeilen. Unter den Systemen für ärztliche Praxen liegt
+CGM MEDISTAR mit 9.617 vorn, vor TURBOMED, medatixx und x.isynet. Nach Herstellern
+gerechnet kommen CompuGroup Medical und medatixx zusammen auf gut ein Drittel aller Installationen.
+
+Stand 20. Oktober 2026, Datenstand der KBV 31.12.2025 (Q4/2025), Quellen verlinkt und abgerufen am 20. Oktober 2026 · von [Thomas Freimoser](https://humanmedizin-in-zahlen.org/ueber-das-projekt.html)
+
+In eigener Sache: Thomas Freimoser ist Geschäftsführer der FleXChange Medical GmbH, die
+Praxisverwaltungssysteme mit E-Health-Anwendungen verbindet. Diese Seite bewertet keine Software und
+empfiehlt keine. Sie gibt wieder, was die KBV veröffentlicht. Mehr dazu unter
+[Über das Projekt](https://humanmedizin-in-zahlen.org/ueber-das-projekt.html).
+
+## Das Wichtigste in Kürze
+
+- 116.954 Installationen in der KBV-Statistik zum 31.12.2025, selbst summiert über alle 126 Zeilen.
+
+- Rund 20 Prozent davon (23.191) entfallen auf drei Systeme für psychotherapeutische Praxen: Elefant, psyprax und PsychoDat.
+
+- Rund 7 Prozent (7.948) sind Krankenhausinformationssysteme, mit denen Klinikambulanzen ambulant abrechnen.
+
+- CompuGroup Medical kommt mit fünf Systemen auf 22.070 Installationen (18,9 Prozent), medatixx mit fünf Systemen auf 19.159 (16,4 Prozent).
+
+- Am schnellsten wuchsen im letzten Quartal 2025 ETERNO Cloud (plus 10,5 Prozent), tomedo (plus 7,4 Prozent) und T2med (plus 5,1 Prozent).
+
+## Was die KBV zählt, und was nicht
+
+Die KBV veröffentlicht jedes Quartal eine
+[Installationsstatistik](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken)
+der Praxisverwaltungssysteme. Gezählt wird, mit welcher Software die Praxen ihre Abrechnung an die
+Kassenärztliche Vereinigung schicken, erkannt an der Prüfnummer des Systems. Die KBV schreibt selbst, das sei
+kein genaues Abbild des tatsächlichen Marktes: Eine Installation ist keine Praxis. Ein MVZ mit
+mehreren Betriebsstätten kann mehrfach zählen, Praxen ohne Kassenzulassung fehlen ganz, und die Zahl sagt
+nichts darüber, wie viele Ärztinnen und Ärzte an einem System arbeiten.
+
+Für einen Vergleich der Systeme untereinander ist sie trotzdem die beste verfügbare Quelle: Sie ist
+vollständig für alle zugelassenen Systeme, wird von keinem Hersteller erhoben und erscheint seit Jahren im
+gleichen Format. Die Summe von 116.954 steht nicht in der Statistik; sie ist hier über alle Zeilen der
+[Gesamtliste](https://update.kbv.de/ita-update/Service-Informationen/Installationsstatistiken/Gesamt_Systeme_Installationen.pdf)
+gebildet.
+
+## Die größten Systeme
+
+Die Tabelle zeigt die zwanzig Systeme mit den meisten Installationen. Die Spalte „Einsatz“ trennt
+Psychotherapie-Software und Krankenhaussysteme von der Software für ärztliche Praxen, weil sie sonst die Liste
+anführen. Epikur und SMARTY laufen in ärztlichen und in psychotherapeutischen Praxen; ihr Anteil lässt sich
+aus der KBV-Statistik nicht trennen.
+
+System | Hersteller | Einsatz | Q4/2025 | Q3/2025
+
+Elefant | HASOMED | Psychotherapie | 10.967 | 11.007
+
+psyprax | psyprax | Psychotherapie | 10.519 | 10.578
+
+CGM MEDISTAR BLACK PRO | CompuGroup Medical | Arztpraxis | 9.617 | 9.811
+
+TURBOMED | CompuGroup Medical | Arztpraxis | 6.305 | 6.471
+
+medatixx | medatixx | Arztpraxis | 6.121 | 5.808
+
+x.isynet | medatixx | Arztpraxis | 6.086 | 6.197
+
+Epikur | Epikur Software | gemischt | 6.008 | 5.974
+
+Medical Office | INDAMED | Arztpraxis | 5.700 | 5.562
+
+SMARTY | New Media Company | gemischt | 4.982 | 4.915
+
+tomedo | Zollsoft | Arztpraxis | 4.530 | 4.219
+
+T2med | T2med | Arztpraxis | 4.078 | 3.880
+
+ORBIS | Dedalus HealthCare | Krankenhaus | 4.073 | 4.082
+
+x.concept | medatixx | Arztpraxis | 3.612 | 3.732
+
+ALBIS | CompuGroup Medical | Arztpraxis | 3.595 | 3.693
+
+QUINCY WIN | Frey ADV | Arztpraxis | 2.654 | 2.696
+
+CGM M1 PRO | CompuGroup Medical | Arztpraxis | 2.278 | 2.350
+
+DURIA | Duria eG | Arztpraxis | 2.069 | 2.083
+
+x.comfort | medatixx | Arztpraxis | 1.938 | 2.037
+
+PsychoDat | ergosoft | Psychotherapie | 1.705 | 1.712
+
+SAP Ambulatory Care Management | SAP | Krankenhaus | 1.543 | 1.549
+
+Quelle: KBV, Installationsstatistik Systeme, Datenstand 31.12.2025 und 30.09.2025. Einsatz nach Herstellerangaben eingeordnet. [Alle 41 erfassten Systeme mit Herstellern und Zulassungen als CSV](https://humanmedizin-in-zahlen.org/tabellen/pvs-systeme-2025.csv)
+
+## Nach Herstellern gerechnet
+
+Zwei Unternehmen besitzen mehrere der großen Systeme. Wer nur Produkte vergleicht, unterschätzt sie:
+
+- CompuGroup Medical: CGM MEDISTAR BLACK PRO 9.617, TURBOMED 6.305, ALBIS 3.595, CGM M1 PRO 2.278 und DATA VITAL 275, zusammen 22.070. Krankenhaussysteme wie CGM MEDICO sind nicht mitgezählt.
+
+- medatixx: medatixx 6.121, x.isynet 6.086, x.concept 3.612, x.comfort 1.938 und EL 1.402, zusammen 19.159. medatixx fördert den Umstieg der älteren Systeme auf das gleichnamige Hauptprodukt; das erklärt, warum medatixx im Quartal um 313 Installationen wuchs, während x.isynet, x.concept und x.comfort verloren.
+
+- Die Frey-Gruppe führt QUINCY WIN, Doctorly und über DGN S3-Win.
+
+Bei allen Herstellerangaben gilt der Eigentümer am Stichtag. Wer eine Zeitreihe nach Herstellern bildet, muss
+die Übernahmen mit Datum berücksichtigen, sonst rechnet er Systeme einem Konzern zu, dem sie damals nicht
+gehörten.
+
+## Wer wächst
+
+Zwischen dem dritten und vierten Quartal 2025 gewannen vor allem Systeme, die nicht nur unter Windows laufen:
+tomedo (macOS, plus 311 Installationen), T2med (Windows, macOS und Linux, plus 198), ETERNO Cloud (Browser,
+plus 74) und das neue Hauptprodukt von medatixx (plus 313). Die großen Windows-Systeme von CGM verloren in
+derselben Zeit zusammen 530 Installationen (MEDISTAR, TURBOMED, ALBIS und M1 PRO). Ein Quartal ist kein Trend.
+Über zwölf Jahre zeigt es der Artikel [Welche
+Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html): Seit 2013 fiel der Anteil von CGM an den ärztlichen Systemen von 50 auf 32
+Prozent.
+
+## Welche Software in welcher Fachgruppe führt
+
+Die KBV zählt Installationen auch je Arztgruppe, mit den 20 größten Systemen jeder Gruppe. Dort sieht die Spitze
+anders aus als in der Gesamtliste: Bei den Allgemeinmedizinern liegt medatixx vorn, bei Augenärzten FIDUS, bei
+Chirurgen das Krankenhaussystem ORBIS, bei Radiologen medavis RIS. CGM MEDISTAR führt in sieben der 16 Gruppen mit mindestens 1.000 Installationen.
+
+Arztgruppe | Top 20 zusammen | Platz 1 | Inst. | Platz 2 | Inst.
+
+Psychotherapeuten | 35.271 | Elefant | 10.645 | psyprax | 10.119
+
+Allgemeinmediziner | 18.909 | medatixx | 1.892 | CGM MEDISTAR BLACK PRO | 1.857
+
+Internisten | 13.638 | CGM MEDISTAR BLACK PRO | 1.493 | x.isynet | 1.351
+
+Frauenärzte | 6.992 | CGM MEDISTAR BLACK PRO | 1.643 | TURBOMED | 748
+
+Kinderärzte | 4.698 | CGM MEDISTAR BLACK PRO | 677 | Medical Office | 601
+
+Sonstige Ärzte | 4.162 | Medical Office | 675 | ORBIS | 635
+
+Orthopäden | 3.737 | CGM MEDISTAR BLACK PRO | 894 | x.isynet | 401
+
+Nervenärzte | 3.647 | TURBOMED | 376 | x.isynet | 353
+
+Chirurgen | 2.729 | ORBIS | 590 | CGM MEDISTAR BLACK PRO | 259
+
+Augenärzte | 2.670 | FIDUS | 518 | CGM MEDISTAR BLACK PRO | 506
+
+HNO-Ärzte | 2.400 | CGM MEDISTAR BLACK PRO | 427 | medatixx | 292
+
+Hautärzte | 2.078 | CGM MEDISTAR BLACK PRO | 375 | tomedo | 284
+
+Urologen | 1.770 | CGM MEDISTAR BLACK PRO | 273 | x.isynet | 179
+
+Praktiker | 1.543 | TURBOMED | 184 | x.isynet | 162
+
+Anästhesisten | 1.525 | SMARTY | 224 | ORBIS | 143
+
+Radiologen | 1.044 | medavis RIS | 219 | ORBIS | 185
+
+Quelle: KBV, [TOP 20 Systeme je Fachgruppe](https://update.kbv.de/ita-update/Service-Informationen/Installationsstatistiken/TOP_20_je_Fachgruppe.pdf), Datenstand 31.12.2025; Arztgruppen mit mindestens 1.000 Installationen in den Top 20. „Allgemeinmediziner“ sind nicht alle Hausärzte: Hausärztlich tätige Internisten stehen bei den Internisten.
+
+## Welche Schnittstellen die Systeme nachweislich haben
+
+Für den Austausch mit Laboren, anderen Praxen und Anwendungen zählt, was die KBV zertifiziert hat. Die
+Zulassungsverzeichnisse vom 21. Oktober 2026 zeigen für die größeren Systeme außerhalb von CGM und medatixx:
+
+System | Betriebssysteme laut KBV | Labordaten (LDT 3) | eArztbrief | 1-Click-KIM
+
+Medical Office | Windows | Befund-Import | nicht gelistet | ja
+
+T2med | Windows, macOS, Linux, iOS/Android | Befund-Import | ja | ja
+
+tomedo | macOS | Befund-Import | ja | ja
+
+Epikur | Windows, macOS, Linux | Auftrag-Export und Befund-Import | ja | ja
+
+ETERNO Cloud | Windows, macOS, Linux | Auftrag- und Befund-Import | ja | ja
+
+Elefant | Windows | Befund-Import | ja | ja
+
+psyprax | Windows | nicht gelistet | ja | ja
+
+SMARTY | Windows | Befund-Import | ja | ja
+
+QUINCY WIN | Windows | Befund-Import | ja | ja
+
+DURIA | Windows | Befund-Import | ja | ja
+
+Quellen: KBV, [Zulassungsverzeichnisse](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/) KVDT, Labordatenkommunikation (LDK), eArztbrief und 1-Click-KIM, Stand 21.10.2026.
+
+Was die Zulassungen nicht zeigen: Gerätedaten über GDT, den Datenaustausch mit Krankenhäusern über HL7 und
+offene Programmierschnittstellen auf FHIR-Basis. Eine dokumentierte API mit Partnerprogramm für Dritte nennen
+öffentlich nur wenige Hersteller, darunter T2med (FHIR R4), medatixx (HealthHub), ETERNO/Doc Cirrus und RED
+Medical. Für alle anderen gilt: auf Anfrage, ohne öffentliche Dokumentation.
+
+## Häufige Fragen
+
+### Welche Praxissoftware ist in Deutschland am weitesten verbreitet?
+
+Unter den Systemen für ärztliche Praxen CGM MEDISTAR BLACK PRO mit 9.617 Installationen Ende 2025. In der Gesamtliste der KBV steht Elefant mit 10.967 vorn, eine Software für psychotherapeutische Praxen.
+
+### Wie viele Praxisverwaltungssysteme gibt es?
+
+Die Installationsstatistik der KBV führt Ende 2025 126 Zeilen. Darunter sind Varianten desselben Systems und Krankenhaussysteme; die Zahl eigenständiger Praxisprogramme ist kleiner.
+
+### Welcher Hersteller hat den größten Marktanteil?
+
+CompuGroup Medical mit 22.070 Installationen in fünf Systemen, 18,9 Prozent aller Installationen in der KBV-Statistik. Dahinter medatixx mit 19.159 (16,4 Prozent).
+
+### Welche Praxissoftware nutzen Allgemeinmediziner?
+
+In der KBV-Arztgruppe Allgemeinmediziner führt Ende 2025 medatixx mit 1.892 Installationen knapp vor CGM MEDISTAR BLACK PRO (1.857) und TURBOMED (1.850). Hausärztlich tätige Internisten zählt die KBV bei den Internisten; dort liegt CGM MEDISTAR BLACK PRO vorn.
+
+### Sind die KBV-Zahlen Marktanteile?
+
+Näherungsweise. Die KBV zählt Installationen nach Prüfnummer in den Abrechnungen und schreibt selbst, das sei kein genaues Abbild des Marktes. Für den Vergleich der Systeme untereinander ist es die vollständigste unabhängige Quelle.
+
+## Quelle und Methode
+
+Installationen: KBV, Installationsstatistik Systeme, Datenstand 31.12.2025 (Q4/2025) und 30.09.2025 (Q3/2025),
+[Übersicht der KBV](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken).
+Zulassungen: KBV-Zulassungsverzeichnisse, Stand 21.10.2026. Einordnung der Systeme (Psychotherapie,
+Krankenhaus) und Herstellerzuordnung nach den Angaben der Hersteller. Gerechnet sind die Summen über alle
+Zeilen, je Hersteller und je Einsatzbereich sowie die Prozentwerte. Wie alle Datensätze dieser Seite steht
+auch dieser in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+Weiterlesen: [alle Artikel](https://humanmedizin-in-zahlen.org/beitrag/) · [Begriffe der Praxis-IT](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html) · [Über das Projekt](https://humanmedizin-in-zahlen.org/ueber-das-projekt.html) ·
+die Schwesterseite [Tiermedizin in Zahlen](https://tiermedizin-in-zahlen.org/).
+
+---
+
+Quelle: https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html · Humanmedizin in Zahlen, Thomas Freimoser
+
+# Begriffe der Praxis-IT, kurz erklärt
+
+Wer Daten zur ambulanten Versorgung liest, stößt auf Abkürzungen: PVS, KVDT, LDT, KIM, MVZ. Hier steht, was sie
+bedeuten, wer sie festlegt und welche Zahl dieser Seite dazu gehört.
+
+Stand 29. Oktober 2026 · von [Thomas Freimoser](https://humanmedizin-in-zahlen.org/ueber-das-projekt.html)
+
+## Software und Abrechnung
+
+**Praxisverwaltungssystem (PVS)**
+
+Die Software, mit der eine Arzt- oder Psychotherapiepraxis Patientendaten, Termine, Dokumentation und
+Abrechnung führt. Wer mit der Kassenärztlichen Vereinigung abrechnet, braucht ein von der Kassenärztlichen
+Bundesvereinigung (KBV) zertifiziertes System. Ende 2025 führt die KBV 116.954 Installationen in 126 Zeilen,
+Systeme und Varianten desselben Systems; welche das sind, steht in
+[Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html).
+
+**KBV-Prüfnummer**
+
+Die Kennung, die ein System bei der Zertifizierung durch die KBV erhält. Sie wird mit jeder Abrechnung an die
+Kassenärztliche Vereinigung übermittelt. Darauf beruht die Installationsstatistik: Gezählt werden Abrechnungen
+mit der Prüfnummer eines Systems, nicht Praxen oder Ärzte.
+
+**Installationsstatistik der KBV**
+
+Die quartalsweise Zählung der Praxissysteme nach Prüfnummer. Sie ist die einzige vollständige Quelle dafür,
+welche Software Praxen nutzen. Die KBV schreibt selbst, sie gebe kein genaues Abbild des Marktes wieder: Ein
+MVZ zählt wie eine Einzelpraxis, und die Psychotherapie stellt rund 30 Prozent der Installationen. Was das für
+Marktanteile bedeutet, zeigt
+[Praxissoftware in Arztpraxen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html).
+
+**Arztgruppe**
+
+Die Fachgruppe, in der die KBV eine Installation zählt, etwa Allgemeinmediziner, Internisten oder
+Psychotherapeuten; 23 Gruppen insgesamt. Für jede veröffentlicht die KBV die 20 größten Systeme. Hausärztlich
+tätige Internisten stehen bei den Internisten, nicht bei den Allgemeinmedizinern. Wer in welcher Gruppe vorn
+liegt, zeigt die [Übersicht nach Fachgruppen](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html#fachgruppen).
+
+**KVDT**
+
+Die Datensatzbeschreibung der KBV für die Abrechnung mit den Kassenärztlichen Vereinigungen. Jedes
+abrechnende Praxissystem braucht die KVDT-Zulassung.
+
+**1-Click-Abrechnung**
+
+Die Übermittlung der Quartalsabrechnung aus dem Praxissystem an die Kassenärztliche Vereinigung über KIM.
+Seit der Abschaltung von KV-Connect am 20. Oktober 2025 ist sie der Weg für alle; die Zulassung dafür haben
+alle abrechnenden Systeme.
+
+**Archiv- und Wechselschnittstelle**
+
+Eine Schnittstelle nach § 371 SGB V, über die eine Praxis ihre Daten beim Wechsel der Software mitnehmen kann.
+Die Hersteller sind verpflichtet, sie anzubieten.
+
+**Krankenhausinformationssystem (KIS)**
+
+Die Software eines Krankenhauses. ORBIS, SAP, CGM MEDICO und iMedOne stehen auch in der KBV-Statistik der
+Praxissysteme, weil Krankenhäuser ambulante Leistungen über sie abrechnen; zusammen 7.948 Installationen Ende
+2025. Sie sind keine Software für Arztpraxen.
+
+## Vernetzung und Telematikinfrastruktur
+
+**Telematikinfrastruktur (TI)**
+
+Das geschützte Netz des deutschen Gesundheitswesens, das Praxen, Krankenhäuser, Apotheken und Krankenkassen
+verbindet. Verantwortlich ist die gematik. Über die TI laufen unter anderem KIM, das E-Rezept und die
+elektronische Patientenakte.
+
+**KIM (Kommunikation im Medizinwesen)**
+
+Der E-Mail-Dienst der Telematikinfrastruktur: verschlüsselte Nachrichten zwischen Praxen, Krankenhäusern,
+Kassenärztlichen Vereinigungen und Krankenkassen. Jede Einrichtung hat eine KIM-Adresse, die im Verzeichnisdienst der
+Telematikinfrastruktur steht. 2025 gingen laut gematik 256,7 Millionen KIM-Nachrichten,
+darunter 114,0 Millionen Arbeitsunfähigkeitsbescheinigungen und 45,2 Millionen eArztbriefe.
+
+**eArztbrief**
+
+Der elektronische Arztbrief, den eine Praxis über KIM an eine andere Praxis oder ein Krankenhaus schickt,
+qualifiziert elektronisch signiert mit dem elektronischen Heilberufsausweis. Die KBV-Zulassung dafür haben
+Systeme mit 88,9 Prozent der Installationen ärztlicher Praxissysteme (Stand 21.10.2026). Seit 30. Juni 2024 müssen
+Praxen eArztbriefe mindestens empfangen können; für Versand und Empfang erhalten sie 28 bzw. 27 Cent
+(GOP 86900 und 86901), höchstens 23,40 Euro je Quartal und Arzt.
+
+**eAU**
+
+Die elektronische Arbeitsunfähigkeitsbescheinigung. Praxen übermitteln sie über KIM an die Krankenkasse; sie
+ist der größte Einzelposten im KIM-Verkehr.
+
+**E-Rezept**
+
+Die elektronische Verordnung, die die Praxis über die Telematikinfrastruktur ausstellt und die Apotheke einlöst. Seit
+1. Januar 2024 ist sie für verschreibungspflichtige Arzneimittel Pflicht. 2025 wurden laut gematik 582 Millionen
+E-Rezepte eingelöst. Ihr Anteil an allen Rezepten für verschreibungspflichtige Arzneimittel lag laut
+[KBV](https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/erezept-quote) im 1. Quartal 2026 bei
+77,9 Prozent; der Rest bleibt Papier, etwa bei Betäubungsmitteln.
+
+**ePA (elektronische Patientenakte)**
+
+Die Akte der Versicherten in der Telematikinfrastruktur, in die Praxen Befunde und Dokumente einstellen. Die „ePA für
+alle“ startete bundesweit im April 2025. Laut TI-Atlas der gematik hatten 2026 88 Prozent der Arztpraxen sie mindestens
+einmal genutzt, 2024 waren es 12,8 Prozent.
+
+**LDT (Labordatenträger)**
+
+Der Standard der KBV für den Austausch von Laboraufträgen und Laborbefunden zwischen Praxis und Labor,
+aktuell in Version 3. Den Import von Befunden nach LDT 3 haben Systeme mit 95,8 Prozent der Installationen
+ärztlicher Praxissysteme zertifiziert, den Export eines Laborauftrags kein ärztliches Praxissystem (Stand
+21.10.2026).
+
+**GOP 40092**
+
+Eine Gebührenordnungsposition im Einheitlichen Bewertungsmaßstab, seit 2025: Labore erhalten sie, wenn sie
+der Praxis ein System zur digitalen Auftragserteilung bereitstellen. Sie misst die Bereitstellung, nicht wie
+viele Aufträge tatsächlich digital kommen.
+
+## Praxisformen
+
+**Medizinisches Versorgungszentrum (MVZ)**
+
+Eine ärztlich geleitete Einrichtung, in der Ärztinnen und Ärzte als Angestellte oder mit eigener Zulassung
+arbeiten, möglich seit 2004. Ende 2025 gab es laut KBV 5.305 MVZ, 2.659 davon mit einem Krankenhaus als
+Träger; 94,7 Prozent der dort Tätigen sind angestellt.
+
+**Berufsausübungsgemeinschaft (BAG)**
+
+Der Rechtsbegriff für die Gemeinschaftspraxis: mehrere Ärztinnen und Ärzte, die gemeinsam eine Praxis führen
+und gemeinsam abrechnen.
+
+**Einzelpraxis**
+
+Eine Praxis mit einer Inhaberin oder einem Inhaber mit Zulassung, auch mit angestellten Ärztinnen und Ärzten.
+Die Zahl der ärztlichen Einzelpraxen sank von 62.524 (2015) auf 50.701 (2025), die der psychotherapeutischen
+stieg.
+
+**Bundesarztregister**
+
+Das Register der KBV über alle Ärztinnen, Ärzte und Psychotherapeuten, die an der vertragsärztlichen
+Versorgung teilnehmen: mit Fachgruppe, Praxisform und ob angestellt oder zugelassen. Es zählt Köpfe, keine
+Vollzeitstellen.
+
+## Quellen
+
+Kassenärztliche Bundesvereinigung: [Installationsstatistiken](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken),
+[Zulassungsverzeichnisse](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/),
+[MVZ-Statistik](https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/statistik-mvz) und
+[Bundesarztregister](https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten);
+gematik, [TI-Dashboard KIM](https://ti-lage.prod.ccs.gematik.solutions/d/_v5YC1HVk/ti-dashboard-verlauf-kim);
+KBV, [eArztbrief](https://www.kbv.de/praxis/digitalisierung/anwendungen/earztbrief).
+Abgerufen am 20. bis 26. Oktober 2026. Wie jede Zahl entstanden ist, steht in der
+[Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+---
+
+# Praxissoftware in Arztpraxen: Marktanteile seit 2013
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html · Stand 2026-10-29 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Die meistgenutzte Praxissoftware in deutschen Arztpraxen ist CGM MEDISTAR mit 9.617 Installationen Ende 2025, vor CGM TURBOMED (6.305), dem neuen medatixx (6.121) und x.isynet (6.086). Das zeigt die Installationsstatistik der Kassenärztlichen Bundesvereinigung (KBV). Der Abstand schrumpft aber seit Jahren: 2013 entfielen noch 50 Prozent der Installationen ärztlicher Systeme auf CompuGroup Medical, 2025 sind es 32 Prozent.
+
+## Das Wichtigste in Kürze
+
+- **9.617** Installationen hat CGM MEDISTAR Ende 2025, 35 Prozent weniger als Ende 2013 (14.859). Platz 1 hält es trotzdem.
+- CGM TURBOMED hat seit 2013 mehr als die Hälfte seiner Installationen verloren, von 13.161 auf 6.305.
+- **Medical Office** wuchs von 1.115 auf 5.700, **tomedo** von 7 auf 4.530 und **T2med** von 0 (Markteintritt 2015) auf 4.078.
+- Alle CGM-Arztsysteme zusammen fielen von 40.206 auf 22.070 Installationen, medatixx von 21.896 auf 19.159.
+- Die ärztlichen Systeme zählen zusammen 11.913 Installationen weniger als 2013 (80.104 auf 68.191). Warum, sagt die Statistik nicht; naheliegend sind Praxisaufgaben und Zusammenschlüsse zu größeren Praxen und MVZ.
+
+## Wer führt und wer aufholt
+
+Wer die Grafik laufen lässt, sieht zwei Bewegungen gleichzeitig. Oben halten sich die alten Namen: CGM MEDISTAR steht in jedem Jahr auf Platz 1, CGM TURBOMED bis heute auf Platz 2. Beide verlieren aber Jahr für Jahr Installationen, und mit ihnen ALBIS (minus 45 Prozent) und QUINCY WIN (minus 32 Prozent).
+
+Von unten schieben sich drei Systeme nach vorn, die 2013 kaum eine Rolle spielten. Medical Office von INDAMED überholt ALBIS und x.concept und liegt Ende 2025 auf Platz 5. tomedo von Zollsoft, das auf dem Mac läuft, und T2med, das unter Windows, macOS und Linux läuft, starten 2013 mit 7 beziehungsweise 0 Installationen und stehen 2025 auf den Plätzen 6 und 7.
+
+Das neue Produkt medatixx ist ein Sonderfall. Es wächst schnell, aber vor allem, weil medatixx seine eigenen Praxen von x.isynet, x.concept und x.comfort auf das neue System umzieht. Das ist eine Migration innerhalb eines Herstellers, kein Wettbewerbserfolg. Zusammengerechnet verliert medatixx seit 2013 ein Achtel seiner Installationen, obwohl 2022 mit EL ein weiteres System dazukam; CGM verliert fast die Hälfte.
+
+## Die lange Fassung: seit 2007
+
+
+2007 ist das erste Jahr, für das die KBV-Liste aller Systeme erhalten ist. In der langen Fassung mit 20 Zeilen sieht man, wie lange sich die Spitze gehalten hat: CGM MEDISTAR steht in jedem Jahr auf Platz 1, CGM TURBOMED auf Platz 2, x.isynet bis 2024 auf Platz 3. Darunter verschwinden Systeme ganz, etwa PDE-TOP (2007 noch 987 Installationen, ab 2013 nicht mehr in der Liste) und easymed (2007 noch 2.095, ab 2023 nicht mehr), und ab 2013 kommen die neuen von null. Für 2008 bis 2012 gibt es nur Teilbelege; diese Jahre sind dazwischen gerechnet, mehr dazu unten unter „Gerechnet“.
+
+## Davor: 1997, 2000 und 2005
+
+Für die Zeit vor 2007 ist keine lückenlose Reihe möglich: Für 2001 bis 2004 und 2006 ist keine Liste je System erhalten. Drei belegte Momentaufnahmen zeigen trotzdem, woher der Markt kommt, jeweils die zehn größten Systeme für ärztliche Praxen:
+
+| Rang | Ende 1997 | Mitte 2000 | Ende 2005 | Ende 2007 |
+|---|---|---|---|---|
+| 1 | MEDISTAR 9.875 | MEDISTAR 11.229¹ | MEDISTAR 14.741 | MEDISTAR 14.838 |
+| 2 | TURBOMED 6.724 | TURBOMED 8.832¹ | TURBOMED 11.273 | TURBOMED 12.747 |
+| 3 | MCS-INA 6.031 | MCS-INA 5.673 | MCS-ISYNET 8.523 | x.isynet 8.760 |
+| 4 | DOC EXPERT 5.532 | DOC EXPERT 4.165 | DOCexpert 7.485 | ALBIS 7.470 |
+| 5 | QUINCY PCNET 3.476 | QUINCY PCNET 3.413 | ALBIS 6.989 | x.comfort 6.976 |
+| 6 | DAVID 2.915 | ALBIS 3.235¹ | CompuMED M1 4.273 | x.concept 5.275 |
+| 7 | ARCOS 2.738 | DAVID 2.884 | QUINCY WIN 3.774 | CGM M1 PRO 4.798 |
+| 8 | ALBIS 2.356¹ | ARCOS 2.399 | DOCconcept 3.502 | QUINCY WIN 4.268 |
+| 9 | LEISYS 2.000 | LEISYS 2.244 | DAVID 2.319 | easymed 2.095 |
+| 10 | DORSYMED 1.974 | DOCexpert Comfort 1.945 | easymed 2.290 | DAVID 2.091 |
+| Alle Installationen | 69.252 | 77.501 | nicht veröffentlicht | 114.244 |
+
+¹ Summe der DOS- und der Windows-Version, die die KBV in diesen Jahren in getrennten Zeilen führte (gerechnet). Mitte 2000 ist das Abrechnungsquartal 2/2000. Die Werte für 2005 stammen aus einer Dissertation an der Medizinischen Hochschule Hannover (Kersting), die die KBV-Statistik zitiert; der Stichtag Ende 2005 ist naheliegend, aber nicht ausdrücklich belegt.
+
+Drei Dinge fallen auf. MEDISTAR ist in jeder belegten Liste seit 1997 das größte System, 2000 allerdings nur mit DOS- und Windows-Version zusammen. Fünf der zehn Namen von 1997 gibt es nicht mehr: MCS-INA, DOC EXPERT, ARCOS, LEISYS und DORSYMED; ihre Praxen sind zum Teil auf Nachfolgeprodukte derselben Hersteller umgezogen, die heute zu medatixx und CompuGroup Medical gehören. Und die Gesamtzahl wächst von 69.252 auf 114.244 Installationen, vor allem weil immer mehr Praxen digital abrechneten und seit 1999 die Psychotherapeuten hinzukamen. Ein Vergleich der Werte von 1997 mit heute misst deshalb vor allem die Digitalisierung, nicht den Wettbewerb.
+
+## Was die Zahl nicht sagt
+
+- **Installationen sind keine Praxen und keine Ärzte.** Die KBV zählt Abrechnungen mit der Prüfnummer eines Systems. Ein MVZ mit 20 Ärztinnen und Ärzten zählt wie eine Einzelpraxis. Die KBV schreibt selbst, die Statistik sei kein genaues Abbild des tatsächlichen Marktes. Was Prüfnummer, KVDT und Installationsstatistik genau bedeuten, steht in den [Begriffen der Praxis-IT](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html).
+- **Psychotherapie ist herausgenommen.** In der Gesamtliste führt Elefant, eine Software für psychotherapeutische Praxen, mit 10.967 Installationen. Diese Grafik zeigt nur Systeme für ärztliche Praxen; die Psychotherapie bekommt einen eigenen Beitrag.
+- **2017 bis 2020 sind gerechnet.** In diesen Jahren hat die KBV nur Anteile in Prozent veröffentlicht, ohne Installationszahlen. Die Werte sind aus diesen Anteilen und einer gerechneten Gesamtzahl entstanden, für Systeme ohne veröffentlichten Anteil linear zwischen 2016 und 2021.
+- **Je Fachgruppe sieht die Spitze anders aus.** Unter allen Arztsystemen führt CGM MEDISTAR, in der KBV-Arztgruppe Allgemeinmediziner Ende 2025 aber medatixx (1.892 Installationen), bei Augenärzten FIDUS. Alle Fachgruppen stehen in der [Übersicht nach Fachgruppen](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html#fachgruppen).
+- **Keine Aussage über Qualität.** Wie zufrieden Praxen mit ihrem System sind, misst die KBV-Statistik nicht.
+
+## Gerechnet
+
+113 von 364 Werten der Grafik sind gerechnet, alle in den Jahren 2017 bis 2020 (bis auf ETERNO Cloud 2013, wo der erste Beleg von 2014 gehalten ist). In der langen Fassung ab 2007 kommen die Jahre 2008 bis 2012 dazu: Dort sind die Jahresenden linear zwischen Teilbelegen gerechnet (Mitte 2009 die 20 größten Systeme, Ende 2010 die fünf größten, Mitte 2011 die sieben größten, Ende 2011 die Werte je Anbieter; bei acht Anbietern mit nur einem System ist der Anbieterwert als Systemwert übernommen). Von den jeweils 20 sichtbaren Balken sind dort 176 von 380 gerechnet oder angenommen, 46 Prozent. Methode je Wert: Datei `pvs-gerechnet.json` in den Rohdaten, Herleitung in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html). Medical Office springt dabei laut KBV-Anteil von 1.832 Installationen Ende 2016 auf rund 3.000 im Herbst 2017; ob der Sprung echt ist, ist offen, denn für 2021 hat die KBV Medical Office nachweislich doppelt gezählt und später korrigiert.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken), Jahresenden 2013 bis 2016 und 2021 bis 2025, ältere Berichte über das Webarchiv; Anteile für Q3/2017 und Q3/2020 aus den Berichten derselben Reihe. Abgerufen am 20. Oktober 2026. Aufgenommen ist jedes ärztliche System, das seit 2013 mindestens einmal 500 Installationen hatte, 28 Systeme. Hersteller nach dem Eigentümer Ende 2025.
+
+Alle Systeme mit Zahlen für Ende 2025, die Psychotherapie- und Krankenhaussysteme und die Schnittstellen-Zulassungen je System stehen in der Übersicht [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html).
+
+## Häufige Fragen
+
+### Welche Praxissoftware hat den größten Marktanteil?
+
+Unter den Systemen für Arztpraxen CGM MEDISTAR mit 9.617 Installationen Ende 2025, 14,1 Prozent der ärztlichen Systeme in der KBV-Statistik. Nach Herstellern führt CompuGroup Medical mit 22.070 Installationen in fünf Systemen.
+
+### Welche Praxissoftware wächst am stärksten?
+
+Seit 2013 Medical Office (von 1.115 auf 5.700), tomedo (von 7 auf 4.530) und T2med (von 0 auf 4.078). Das Produkt medatixx wächst ebenfalls stark, aber überwiegend durch Umstiege von anderen medatixx-Systemen.
+
+### Woher stammen die Zahlen?
+
+Aus der Installationsstatistik der KBV, die zählt, mit welchem System die Praxen ihre Kassenabrechnung erstellen. Sie erscheint quartalsweise mit etwa einem Jahr Verzug; die Zahlen für Ende 2025 hat die KBV im Oktober 2026 veröffentlicht.
+
+---
+
+# Praxissoftware-Hersteller: CGM, medatixx und die Neuen
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html · Stand 2026-10-22 · Humanmedizin in Zahlen, Thomas Freimoser
+
+CompuGroup Medical (CGM) ist mit 22.070 Installationen Ende 2025 der größte Hersteller von Praxissoftware für Arztpraxen, 32,4 Prozent der Installationen ärztlicher Systeme in der Statistik der Kassenärztlichen Bundesvereinigung (KBV). 2013 waren es noch 50,2 Prozent. medatixx liegt mit 19.159 Installationen bei 28,1 Prozent, und drei kleinere Anbieter – Medical Office, tomedo und T2med – kommen zusammen von 1,4 auf 21,0 Prozent.
+
+## Das Wichtigste in Kürze
+
+- **CGM** verlor seit 2013 fast die Hälfte seiner Installationen ärztlicher Systeme: 40.206 auf 22.070. Jedes seiner fünf Systeme schrumpfte, TURBOMED um 52,1 Prozent, MEDISTAR um 35,3 Prozent.
+- **medatixx** blieb bei gut einem Viertel: 21.896 (2013) auf 19.159 (2025). Der Anteil sprang 2022 von 25,9 auf 28,1 Prozent, weil medatixx im April 2022 Softland mit dem System EL übernahm; ohne EL läge er 2025 bei 26,0 Prozent.
+- **Medical Office, tomedo und T2med** wuchsen von 1.122 auf 14.308 Installationen. tomedo und T2med gab es 2013 noch nicht.
+- Die ärztlichen Systeme insgesamt zählen 2025 68.191 Installationen, 11.913 weniger als 2013.
+
+## Produkte täuschen, Hersteller zählen
+
+Wer nur die einzelnen Systeme betrachtet, sieht CGM MEDISTAR seit Jahren auf Platz 1 und schließt auf einen stabilen Marktführer. Nach Herstellern gerechnet ist das Bild ein anderes: CGM besitzt mit MEDISTAR, TURBOMED, ALBIS, M1 PRO und DATA VITAL fünf Systeme, die alle Installationen verlieren. Die Gruppe kam durch Übernahmen zustande, MEDISTAR 2002/2003 und TurboMed Ende 2003.
+
+medatixx entstand 2007 aus DOCexpert und MCS und führt die Systeme x.isynet, x.concept und x.comfort weiter. Seit 2014 baut der Hersteller ein neues Hauptprodukt gleichen Namens auf, auf das er seine Praxen nach und nach umzieht. Deshalb wächst das Produkt medatixx stark, während die älteren Systeme schrumpfen – für den Hersteller ist das ein Umzug, kein Gewinn.
+
+Die eigentliche Verschiebung findet außerhalb der beiden Gruppen statt. Medical Office von INDAMED, tomedo von Zollsoft und T2med haben zusammen inzwischen mehr als jede fünfte Installation ärztlicher Systeme. In einzelnen Fachgruppen sieht es anders aus: Bei den Allgemeinmedizinern liegt medatixx vor CGM, siehe [Praxissoftware der Allgemeinmediziner](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html).
+
+## Was die Zahl nicht sagt
+
+- **Installationen sind keine Praxen.** Die KBV zählt Abrechnungen mit der Prüfnummer eines Systems. Ein MVZ mit vielen Ärztinnen und Ärzten zählt wie eine Einzelpraxis; Hersteller mit Systemen für große Praxen erscheinen dadurch kleiner, als ihr Umsatz vermuten ließe. Was die Statistik genau misst, steht in [Wer zählt die Praxissoftware?](https://humanmedizin-in-zahlen.org/beitrag/pvs-statistik-kbv-methode.html)
+- **Eigentümer am Stichtag.** Jedes System ist dem Hersteller zugeordnet, dem es am jeweiligen Jahresende gehörte. EL zählt deshalb erst ab 2022 zu medatixx.
+- **Ohne Psychotherapie und Klinik.** Elefant, psyprax und die Krankenhaussysteme sind nicht enthalten; die Anteile beziehen sich auf die 28 ärztlichen Systeme mit mindestens einmal 500 Installationen seit 2013.
+- **2017 bis 2020 sind gerechnet.** Die KBV hat für diese Jahre nur Anteile in Prozent veröffentlicht.
+
+## Gerechnet
+
+Die Herstellerlinien sind Summen der Systeme aus dem Datensatz zu [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html). Für 2017 bis 2020 sind die Systemwerte aus den KBV-Anteilen und einer linear gerechneten Gesamtzahl entstanden, für Systeme ohne veröffentlichten Anteil linear zwischen 2016 und 2021; die Methode je Wert steht in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html). Anteile sind auf die Summe der 28 ärztlichen Systeme bezogen.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken), Jahresenden 2013 bis 2016 und 2021 bis 2025, ältere Berichte über das Webarchiv, abgerufen am 20. und 22. Oktober 2026. Übernahmen nach Deutschem Ärzteblatt und Herstellerangaben. Alle Systeme mit Herstellern und Schnittstellen-Zulassungen stehen in der Übersicht [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html).
+
+## Häufige Fragen
+
+### Welcher Hersteller hat den größten Marktanteil bei Praxissoftware?
+
+CompuGroup Medical mit 22.070 Installationen in fünf Systemen, 32,4 Prozent der Installationen ärztlicher Systeme Ende 2025. Dahinter medatixx mit 19.159 (28,1 Prozent).
+
+### Gehören MEDISTAR und TURBOMED zum selben Hersteller?
+
+Ja, beide gehören zu CompuGroup Medical, ebenso ALBIS, M1 PRO und DATA VITAL. MEDISTAR kam 2002/2003, TurboMed Ende 2003 zur Gruppe.
+
+### Welche Praxissoftware-Anbieter wachsen?
+
+Medical Office (INDAMED), tomedo (Zollsoft) und T2med: zusammen von 1.122 Installationen Ende 2013 auf 14.308 Ende 2025.
+
+---
+
+# Psychotherapie-Software: Elefant vor MEDISTAR
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/psychotherapie-software-elefant-psyprax.html · Stand 2026-10-29 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Das meistinstallierte Praxisverwaltungssystem in der Statistik der Kassenärztlichen Bundesvereinigung (KBV) ist seit Ende 2023 Elefant, eine Software für psychotherapeutische Praxen: 10.967 Installationen Ende 2025, vor psyprax mit 10.519 und dem größten Arztsystem CGM MEDISTAR mit 9.617. Elefant, psyprax und Epikur laufen zu 97, 96 und 94 Prozent in psychotherapeutischen Praxen.
+
+## Das Wichtigste in Kürze
+
+- **Elefant** überholte CGM MEDISTAR Ende 2023 mit 11.026 zu 10.966 Installationen. Ende 2024 lag auch **psyprax** vorn (10.845 zu 10.369).
+- Seit 2013 wuchs Elefant um 61,4 Prozent, Epikur um 276,0 Prozent, psyprax um 13,1 Prozent; MEDISTAR verlor 35,3 Prozent.
+- Die Arztgruppe Psychotherapeuten stellt inzwischen rund 30 Prozent aller Installationen in der KBV-Statistik, 2007 waren es 10,6 Prozent.
+- Die Zahl der psychotherapeutischen Einzelpraxen stieg von 20.021 (2015) auf 29.577 (2025), die der ärztlichen Einzelpraxen sank von 62.524 auf 50.701.
+
+## Warum eine Psychotherapie-Software vorn liegt
+
+Die KBV zählt Installationen, also Abrechnungen mit der Prüfnummer eines Systems. Psychologische Psychotherapeutinnen und -therapeuten arbeiten überwiegend in Einzelpraxen, Ende 2025 31.753 von 35.999 (88 Prozent), und jede Einzelpraxis zählt als eine Installation. Bei den Ärztinnen und Ärzten geht der Trend in die Gegenrichtung: in MVZ, wo viele Ärzte an einer Installation arbeiten. Mehr psychotherapeutische Praxen bedeuten deshalb mehr Installationen; über die Größe der Praxen sagt die Zahl nichts. Seit 2022 gibt es mehr psychotherapeutische als hausärztliche Einzelpraxen, seit 2023 auch mehr als fachärztliche (Bundesarztregister). Weitere Fallen der KBV-Statistik stehen in [Wer zählt die Praxissoftware?](https://humanmedizin-in-zahlen.org/beitrag/pvs-statistik-kbv-methode.html)
+
+Der Markt der Psychotherapie ist eigenständig. Die drei größten Systeme dort gehören weder zu CompuGroup Medical noch zu medatixx: Elefant kommt von HASOMED aus Magdeburg, psyprax von der psyprax GmbH aus München, Epikur von Epikur Software aus Berlin. Dazu kommen SMARTY (4.982 Installationen) und PsychoDat (1.705).
+
+## Was die Zahl nicht sagt
+
+- **Installationen sind keine Praxen und kein Umsatz.** Eine psychotherapeutische Einzelpraxis zählt wie ein MVZ mit 20 Ärztinnen und Ärzten.
+- **Die Zuordnung ist ein Anteil, keine Regel.** Elefant, psyprax und Epikur haben 94 bis 97 Prozent ihrer Installationen in der Arztgruppe Psychotherapeuten, ein kleiner Teil läuft in ärztlichen Praxen.
+- **Die Größe der Arztgruppe ist für 2021 bis 2025 ein Mindestwert.** Die KBV veröffentlicht für diese Jahre nur die 20 größten Systeme der Gruppe; die übrigen haben je höchstens 30 Installationen.
+- **2017 bis 2020 sind gerechnet.** Die KBV hat für diese Jahre nur Anteile in Prozent veröffentlicht.
+
+## Gerechnet
+
+16 von 52 Werten der Grafik sind gerechnet, alle in den Jahren 2017 bis 2020: aus den KBV-Anteilen für Q3/2017 und Q3/2020 und einer linear gerechneten Gesamtzahl, die Jahresenden linear dazwischen. Die Zahl der psychotherapeutischen Einzelpraxen 2025 ist aus der Registerstatistik summiert. Methode je Wert in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken) (Gesamtliste und Bericht je Arztgruppe), Jahresenden 2013 bis 2016 und 2021 bis 2025; Praxen nach Praxisform aus dem Bundesarztregister der KBV. Abgerufen am 20. bis 22. Oktober 2026. Wie sich der Markt der ärztlichen Systeme entwickelt, steht in [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html).
+
+## Häufige Fragen
+
+### Welche Praxissoftware nutzen Psychotherapeuten?
+
+Am häufigsten Elefant (HASOMED) und psyprax, danach Epikur, SMARTY und PsychoDat. Ende 2025 hatten Elefant 10.967 und psyprax 10.519 Installationen in der KBV-Statistik.
+
+### Ist Elefant die meistgenutzte Praxissoftware in Deutschland?
+
+Nach Installationen in der KBV-Statistik ja, seit Ende 2023. Unter den Systemen für ärztliche Praxen führt weiterhin CGM MEDISTAR mit 9.617 Installationen Ende 2025.
+
+### Warum zählen Psychotherapie-Praxen so stark?
+
+Weil die KBV Installationen zählt und psychologische Psychotherapeutinnen und -therapeuten überwiegend in Einzelpraxen arbeiten (2025: 88 Prozent). Die Zahl der psychotherapeutischen Einzelpraxen wuchs zwischen 2015 und 2025 um rund die Hälfte.
+
+### Gibt es Praxissoftware für Psychotherapie auf dem Mac?
+
+Laut KBV-Zulassungsverzeichnis läuft Epikur unter Windows, macOS und Linux; Elefant, psyprax und SMARTY sind nur für Windows zugelassen. Welche Betriebssysteme die übrigen Systeme haben, steht in [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html).
+
+---
+
+# Praxissoftware-Aufsteiger: tomedo, T2med und Co.
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-aufsteiger-tomedo-t2med.html · Stand 2026-10-22 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Am stärksten wachsen Praxissysteme, die nicht nur unter Windows laufen: tomedo hatte Ende 2025 4.530 Installationen in der Statistik der Kassenärztlichen Bundesvereinigung (KBV), T2med 4.078. Ende 2013 waren es 7 und 0. Im Jahr 2025 allein wuchs tomedo um 34,8 Prozent und T2med um 22,4 Prozent, während CGM MEDISTAR 7,3 Prozent und CGM TURBOMED 11,3 Prozent verloren.
+
+## Das Wichtigste in Kürze
+
+- **tomedo** (Zollsoft, läuft auf dem Mac): 7 Installationen Ende 2013, 4.530 Ende 2025, Platz 6 der ärztlichen Systeme. Plus 1.170 allein im Jahr 2025.
+- **T2med** (Windows, macOS und Linux): Markteinführung 2015, Ende 2025 4.078 Installationen, Platz 7. Plus 746 im Jahr 2025.
+- **ETERNO Cloud** (früher inSuite, im Browser): 1 Installation Ende 2014, 778 Ende 2025.
+- **Medical Office** (INDAMED, Windows): von 1.115 (2013) auf 5.700 (2025), Platz 5. Seit 2021 wächst es nur noch langsam, 2025 um 2,3 Prozent.
+
+## Wer die Aufsteiger sind
+
+tomedo stammt von Zollsoft aus Jena, das 2011 gegründet wurde und Mitte 2013 die KBV-Zulassung erhielt. Das System läuft nativ auf dem Mac, der Praxisserver ist ebenfalls ein Mac. T2med wurde 2012 gegründet, von einem früheren Geschäftsführer von TurboMed, und ist seit 2015 auf dem Markt; es läuft unter Windows, macOS und Linux und bietet eine dokumentierte FHIR-Schnittstelle mit Partnerprogramm. ETERNO Cloud (Doc Cirrus) läuft im Browser.
+
+Gemeinsam ist den drei Neuen, dass sie nicht aus einer der großen Gruppen kommen und von Anfang an nicht allein auf Windows gesetzt haben: auf den Mac, auf mehrere Betriebssysteme oder auf den Browser. Medical Office ist älter (INDAMED wurde 1994 gegründet) und läuft unter Windows; es wuchs vor allem bis 2021. Am stärksten sind die Aufsteiger bei den Allgemeinmedizinern: Dort steht T2med auf Platz 4, siehe [Praxissoftware der Allgemeinmediziner](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html).
+
+## Was die Zahl nicht sagt
+
+- **Installationen sind keine Praxen.** Die KBV zählt Abrechnungen mit der Prüfnummer eines Systems. Wie groß die Praxen hinter den Installationen sind, sagt die Zahl nicht.
+- **Wachstum ist nicht gleich Wechsel.** Die KBV zeigt nur, wie viele Installationen ein System hat, nicht, von welchem System eine Praxis kam. Neue Installationen können auch aus Neugründungen stammen; wie viele, ist nicht bekannt. Salden je System seit 2021 zeigt [Gewinner und Verlierer](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-wechsel-gewinner-verlierer.html).
+- **Medical Office 2017 ist unsicher.** Laut KBV-Anteil sprang Medical Office von 1.832 Installationen Ende 2016 auf rund 3.000 im Herbst 2017. Für 2021 hat die KBV Medical Office nachweislich doppelt gezählt und korrigiert; ob 2017 bis 2020 betroffen sind, ist offen.
+
+## Gerechnet
+
+Für 2017 bis 2020 hat die KBV nur Anteile in Prozent veröffentlicht; diese Jahre sind aus den Anteilen bzw. linear gerechnet. Für ETERNO Cloud ist der erste Beleg (Ende 2014) für 2013 gehalten. Die Quartalswerte 2025 sind alle belegt. Methode je Wert in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken), Jahresenden 2013 bis 2016 und 2021 bis 2025 sowie die Quartale 2025; Betriebssysteme laut KBV-Zulassungsverzeichnissen; Firmengeschichte nach Herstellerangaben. Abgerufen am 20. bis 22. Oktober 2026. Den Gesamtmarkt zeigt [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html), die Hersteller [CGM, medatixx und die Neuen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html).
+
+## Häufige Fragen
+
+### Welche Praxissoftware wächst am stärksten?
+
+tomedo und T2med: Im Jahr 2025 kamen 1.170 bzw. 746 Installationen dazu, plus 34,8 und 22,4 Prozent. Unter den großen Systemen verlieren CGM MEDISTAR, CGM TURBOMED und CGM ALBIS.
+
+### Gibt es Praxissoftware für den Mac?
+
+Ja. tomedo läuft nativ auf dem Mac, T2med unter Windows, macOS und Linux, ETERNO Cloud im Browser. Zusammen hatten sie Ende 2025 9.386 Installationen in der KBV-Statistik.
+
+### Wie groß ist Medical Office?
+
+Ende 2025 hatte Medical Office (INDAMED) 5.700 Installationen, Platz 5 unter den Systemen für ärztliche Praxen.
+
+---
+
+# Praxissoftware wechseln: Gewinner und Verlierer seit 2021
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-wechsel-gewinner-verlierer.html · Stand 2026-10-29 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Zwischen Ende 2021 und Ende 2025 hat das neue System medatixx 3.654 Installationen gewonnen und tomedo 2.872, während CGM TURBOMED 3.385 und CGM MEDISTAR 2.375 verloren haben. Das zeigt die Installationsstatistik der Kassenärztlichen Bundesvereinigung (KBV). Die Gesamtzahl aller Installationen sank in derselben Zeit nur um 2.451 auf 116.954 – unter der stabilen Summe wird kräftig umgeschichtet.
+
+## Das Wichtigste in Kürze
+
+- Unter den 40 Systemen, die irgendwann mindestens 500 Installationen hatten, gewannen 14 zusammen 13.667 Installationen, 25 verloren zusammen 15.139.
+- **Größte Gewinner:** medatixx (+3.654), tomedo (+2.872), T2med (+2.595), Epikur (+1.527).
+- **Größte Verlierer:** CGM TURBOMED (−3.385), CGM MEDISTAR (−2.375), x.isynet (−1.541), x.concept (−1.360), CGM ALBIS (−1.146).
+- Die fünf CGM-Arztsysteme verloren zusammen 8.093 Installationen. Die drei älteren medatixx-Systeme verloren 3.994, fast so viel, wie das neue medatixx gewann.
+
+## Zwei Arten von Wechsel
+
+Hinter den Zahlen stecken zwei verschiedene Bewegungen. Die erste ist ein Umzug innerhalb eines Herstellers: medatixx bietet seinen Praxen den Umstieg von x.isynet, x.concept und x.comfort auf das neue Hauptprodukt an. Dass das neue medatixx 3.654 gewinnt und die alten drei 3.994 verlieren, ist überwiegend dieser Umzug, kein Gewinn gegen die Konkurrenz.
+
+Die zweite ist der Wechsel zwischen Herstellern. Die CGM-Systeme verlieren deutlich mehr, als ein Umzug innerhalb der Gruppe erklären könnte, denn kein CGM-System wächst. tomedo, T2med und Medical Office gewinnen gleichzeitig zusammen 6.276 Installationen. Ob genau diese Praxen von CGM kommen, sagt die Statistik nicht.
+
+§ 371 SGB V verpflichtet die Hersteller, eine [Archivierungs- und Wechselschnittstelle](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#archiv-und-wechselschnittstelle) anzubieten, über die Praxen ihre Daten mitnehmen können. Ein öffentliches Verzeichnis, welches System sie zertifiziert hat, führt die KBV seit Ende 2025 nicht mehr.
+
+## Die Bewegung hält an: das letzte Quartal 2025
+
+Die KBV veröffentlicht auch Quartalswerte. Zwischen Ende September und Ende Dezember 2025 setzte sich das Muster fort: Das neue medatixx gewann 313 Installationen, tomedo 311, T2med 198 und Medical Office 138. CGM MEDISTAR verlor 194, CGM TURBOMED 166, x.concept 120, x.isynet 111 und CGM ALBIS 98. Die Summe aller Installationen stieg im selben Quartal leicht, um 111.
+
+In der Arztgruppe Allgemeinmediziner war es dasselbe Bild im Kleinen: plus 94 für medatixx, plus 89 für T2med und plus 69 für tomedo, minus 77 für TURBOMED. Welche Systeme in welcher Fachgruppe vorn liegen, zeigt [Praxissoftware der Allgemeinmediziner](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html).
+
+## Was die Zahl nicht sagt
+
+- **Salden, keine Wechselströme.** Die KBV zählt, wie viele Installationen ein System zu einem Stichtag hat. Wer von welchem System zu welchem wechselt, steht nirgends. Ein Rückgang kann auch durch Praxisaufgaben entstehen, ein Zuwachs durch Neugründungen.
+- **Installationen sind keine Praxen.** Ein MVZ zählt wie eine Einzelpraxis.
+- **Kleinstsysteme fehlen in der Rechnung.** Systeme, die nie 500 Installationen hatten, sind nicht einzeln erfasst; über alle Systeme sank die Summe stärker (−2.451) als bei den 40 erfassten (−1.472).
+
+## Gerechnet
+
+Alle Zahlen sind Differenzen belegter Werte der KBV: Jahresenden 2021 und 2025, für das letzte Quartal die Stände vom 30.09. und 31.12.2025, für die Allgemeinmediziner der Bericht „TOP 20 Systeme je Fachgruppe“. Sonst ist nichts gerechnet. Die Grafik zeigt die Veränderung gegenüber Ende 2021 für die zwei größten Gewinner und Verlierer.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken), Datenstände 31.12.2021 und 31.12.2025, abgerufen am 20. und 22. Oktober 2026. Erfasst sind alle Systeme mit mindestens einmal 500 Installationen. Den Verlauf seit 2013 zeigt [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html), die Hersteller [CGM, medatixx und die Neuen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html), die Neuen im Einzelnen [die Aufsteiger](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-aufsteiger-tomedo-t2med.html).
+
+## Häufige Fragen
+
+### Welche Praxissoftware verliert Kunden?
+
+Nach Installationen in der KBV-Statistik verloren zwischen Ende 2021 und Ende 2025 am meisten CGM TURBOMED (−3.385), CGM MEDISTAR (−2.375), x.isynet (−1.541), x.concept (−1.360) und CGM ALBIS (−1.146).
+
+### Wohin wechseln Arztpraxen?
+
+Das sagt die KBV-Statistik nicht direkt. Am stärksten gewannen das neue medatixx (vor allem durch Umstieg von älteren medatixx-Systemen), tomedo, T2med und Medical Office.
+
+### Muss eine Praxis ihre Daten beim Wechsel mitnehmen können?
+
+Ja. § 371 SGB V verpflichtet die Hersteller zu einer Archivierungs- und Wechselschnittstelle.
+
+---
+
+# Labordaten in der Arztpraxis: LDT-Befunde ja, Aufträge kaum
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/labordaten-ldt-praxissoftware.html · Stand 2026-10-22 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Praxissysteme mit KBV-Zulassung für den Import von Laborbefunden nach LDT 3 tragen 95,8 Prozent der Installationen ärztlicher Systeme (Zulassungsverzeichnis der Kassenärztlichen Bundesvereinigung, Stand 21.10.2026). Den digitalen Laborauftrag als LDT-Export hat dagegen kein einziges ärztliches Praxissystem zertifiziert. Entsprechend empfangen laut PraxisBarometer 2025 80 Prozent der Arztpraxen Labordaten digital, senden aber nur 39 Prozent.
+
+## Das Wichtigste in Kürze
+
+- **LDT-Befund-Import:** 22 von 28 ärztlichen Systemen sind zugelassen, zusammen 95,8 Prozent der Installationen. Der Wert ist an allen archivierten Ständen seit Januar 2022 gleich.
+- **LDT-Auftrag-Export:** kein ärztliches Praxissystem; zertifiziert sind nur Epikur und Laborsysteme.
+- **PraxisBarometer:** Labordaten digital empfangen 69 Prozent der Arztpraxen (2018) und 80 Prozent (2025); digital senden 15 und 39 Prozent.
+- **Seit 2025** bekommen Labore eine Pauschale, wenn sie ein System zur digitalen Auftragserteilung bereitstellen ([GOP 40092](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#gop-40092)). Im 1. Quartal 2025 wurde sie bei 80,5 Prozent der Fälle mit Transportpauschale abgerechnet.
+
+## Wo der digitale Auftrag tatsächlich entsteht
+
+Für den Befund ist der Weg einfach: Das Labor schickt eine [LDT-Datei](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#ldt), die Praxissoftware liest sie ein. Fast alle Systeme können das zertifiziert.
+
+Beim Auftrag ist es umgekehrt. Weil kein ärztliches Praxissystem einen zertifizierten LDT-Auftrag erzeugt, entsteht ein digitaler Laborauftrag, wo es ihn gibt, im Auftragssystem des Labors: Die Praxis bestellt in der Software, die das Labor bereitstellt. Die neue Pauschale GOP 40092 bezahlt genau diese Bereitstellung durch das Labor. Sie zeigt, wie verbreitet solche Systeme sind, aber nicht, wie viele Aufträge tatsächlich digital kommen.
+
+Für alle, die Schnittstellen bauen, ist das der eigentliche Befund: Zwischen Praxissoftware und Labor gibt es einen genormten Weg zurück (Befund) und keinen genormten Weg hin (Auftrag) – den füllen die Labore mit eigenen Portalen.
+
+## Was die Zahl nicht sagt
+
+- **Zulassung ist nicht Nutzung.** Wie viele Praxen tatsächlich LDT 3 statt des älteren LDT 2 einsetzen, ist nirgends belegt.
+- **Das PraxisBarometer ist eine Befragung.** Ab 2024 lautet die Antwort „Labordaten (inklusive Labordatenaufträgen und -ergebnissen)“; der Anstieg beim Senden von 20 Prozent (2023) auf 30 und 39 Prozent ist teilweise ein Effekt der neuen Formulierung.
+- **Die Pauschale misst Bereitstellung.** GOP 40092 wird je Behandlungsfall abgerechnet, wenn das Labor ein System bereitstellt; ob der einzelne Auftrag digital kam, steht nicht in der Abrechnung. Den Wert gibt es bisher nur für ein Quartal.
+
+## Gerechnet
+
+Der Anteil der Installationen ist gerechnet: Installationen Ende 2025 (KBV-Installationsstatistik) der Systeme mit Zulassung laut LDK-Verzeichnis, geteilt durch alle Installationen der 28 erfassten ärztlichen Systeme. Das Verhältnis 80,5 Prozent ist gerechnet aus den Abrechnungshäufigkeiten der GOP 40092 (15,1 Mio.) und der Transportpauschale GOP 40094 (18,8 Mio.) im 1. Quartal 2025. Die Werte des PraxisBarometers sind veröffentlichte Prozente, nichts davon ist gerechnet.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Zulassungsverzeichnisse](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/) (LDK, Stand 21.10.2026, ältere Stände über das Webarchiv) und [Installationsstatistiken](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken); KBV/IGES, [PraxisBarometer Digitalisierung](https://www.kbv.de/infothek/zahlen-und-fakten/studien-und-berichte/praxisbarometer-digitalisierung) 2018–2025; KBV, Abrechnungshäufigkeiten je Gebührenordnungsposition, 1/2025. Abgerufen am 22. Oktober 2026. Alle Systeme mit ihren Zulassungen stehen in [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html); wer die Labore betreibt, zeigt [Laborärzte: 88,5 Prozent angestellt](https://humanmedizin-in-zahlen.org/beitrag/labor-angestellte-laboraerzte.html), wie es beim Arztbrief aussieht, [eArztbrief über KIM](https://humanmedizin-in-zahlen.org/beitrag/earztbrief-kim-zahlen.html).
+
+## Häufige Fragen
+
+### Welche Praxissoftware kann LDT 3?
+
+Für den Import von Laborbefunden nach LDT 3 sind laut KBV 22 der 28 erfassten ärztlichen Systeme zugelassen, darunter CGM MEDISTAR, CGM TURBOMED, medatixx, x.isynet, Medical Office, tomedo und T2med. Nicht zugelassen sind unter anderem Praxis-Programm, Med7 und FIDUS.
+
+### Kann die Praxissoftware Laboraufträge digital senden?
+
+Einen zertifizierten LDT-Auftrag-Export hat kein ärztliches Praxissystem. Digitale Aufträge laufen über Auftragssysteme, die die Labore bereitstellen; seit 2025 werden die Labore dafür mit einer eigenen Pauschale (GOP 40092) vergütet.
+
+### Wie viele Arztpraxen empfangen Labordaten digital?
+
+Laut PraxisBarometer Digitalisierung 2025 80 Prozent der Arztpraxen; 39 Prozent senden Labordaten digital.
+
+---
+
+# eArztbrief über KIM: 45,2 Millionen im Jahr 2025
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/earztbrief-kim-zahlen.html · Stand 2026-11-04 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Über KIM, den Mail-Dienst der Telematikinfrastruktur, gingen im Jahr 2025 45,2 Millionen elektronische Arztbriefe, laut TI-Dashboard der gematik. 2023 waren es 14,4 Millionen, 2024 32,3 Millionen, und von Januar bis Oktober 2026 schon 46,8 Millionen, mehr als im ganzen Jahr 2025. Im ersten gezählten Monat, März 2022, waren es 150.450.
+
+## Das Wichtigste in Kürze
+
+- **Menge:** 14,4 Mio. eArztbriefe (2023), 32,3 Mio. (2024), 45,2 Mio. (2025), 46,8 Mio. Januar bis Oktober 2026. Der bisher stärkste Monat war der Oktober 2026 mit 5,4 Millionen, vor dem März 2026 mit 5,2 Millionen.
+- **Kein gleichmäßiges Wachstum:** Von April bis September 2026 lagen die Monate zwischen 4,3 und 5,0 Millionen, im Oktober waren es dann 5,4 Millionen, so viele wie nie. Ob das ein neuer Anstieg ist oder ein Ausreißer, zeigen erst die nächsten Monate.
+- **Nutzung:** Laut PraxisBarometer Digitalisierung 2025 nutzen 82 Prozent der Arztpraxen mit TI-Anschluss den eArztbrief über [KIM](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#kim), in psychotherapeutischen Praxen 22 Prozent.
+- **Software:** Systeme mit 88,9 Prozent der Installationen ärztlicher Systeme haben die KBV-Zulassung für den eArztbrief. [1-Click-Abrechnung](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#1-click-abrechnung) über KIM können alle, seit KV-Connect am 20.10.2025 abgeschaltet wurde.
+
+## Ein Teil des KIM-Verkehrs, nicht der größte
+
+Der eArztbrief ist nicht der Hauptgrund, warum Praxen KIM einsetzen. 2025 gingen insgesamt 256,7 Millionen KIM-Nachrichten, davon 114,0 Millionen Arbeitsunfähigkeitsbescheinigungen an die Krankenkassen (eAU) und 45,2 Millionen eArztbriefe, rund 18 Prozent. Die eAU ist Pflicht; den Arztbrief kann eine Praxis weiterhin faxen oder per Post schicken.
+
+Das zeigt auch das PraxisBarometer: Den Arztbrief empfingen 2018 13 Prozent der Arztpraxen überwiegend digital, 2025 87 Prozent; digital versendet haben ihn 13 und 65 Prozent. Empfangen ist leichter als Senden – für den Versand muss der Brief in der Praxissoftware entstehen, signiert und an die richtige KIM-Adresse adressiert werden.
+
+Für Schnittstellenanbieter heißt das: Der Transport über KIM ist in der Breite angekommen. Offen ist vor allem, was mit dem Brief beim Empfänger passiert – ob er als strukturiertes Dokument in die Akte kommt oder als PDF-Anhang.
+
+## Was die Zahl nicht sagt
+
+- **Briefe, nicht Praxen.** Das TI-Dashboard zählt gesendete eArztbriefe, nicht, wie viele Praxen senden. Wie viele Briefe eine Praxis verschickt, ist nicht veröffentlicht.
+- **Nur KIM.** Arztbriefe per Fax, Post, E-Mail oder über Portale sind nicht gezählt. Der gesamte Briefverkehr zwischen Praxen und Kliniken ist unbekannt.
+- **Keine Zahl je Software.** Weder gematik noch KBV veröffentlichen, aus welchem System die Briefe kommen. Die Zulassung zeigt, was ein System kann, nicht, was genutzt wird. Medical Office steht derzeit nicht im eArztbrief-Verzeichnis der KBV; Zulassungen fallen bei einer neuen Zertifizierung zeitweise weg.
+- **Zwei Befragungen, zwei Grundgesamtheiten.** Die 82 Prozent beziehen sich auf Arztpraxen mit TI-Anschluss, die 87 Prozent beim Empfang auf alle befragten Arztpraxen und umfassen auch andere digitale Wege.
+
+## Gerechnet
+
+Die gematik veröffentlicht einen Zähler seit 01.08.2021, jeweils um 0 Uhr UTC. Jeder Monatswert der Grafik ist die Differenz zweier Monatsendstände, ein Monat reicht dadurch vom Vortag des Monatsletzten bis zum Vortag des nächsten. Die Jahressummen sind gleich den Differenzen der Jahresendstände. Der Anteil der Installationen mit Zulassung ist aus der KBV-Installationsstatistik (Ende 2025) und dem Zulassungsverzeichnis (Stand 21.10.2026) gerechnet, der Anteil des eArztbriefs am KIM-Verkehr aus den beiden Zählern. Die Werte des PraxisBarometers sind veröffentlichte Prozente.
+
+## Quelle und Methode
+
+gematik, [TI-Dashboard, Verlauf KIM](https://ti-lage.prod.ccs.gematik.solutions/d/_v5YC1HVk/ti-dashboard-verlauf-kim); KBV/IGES, [PraxisBarometer Digitalisierung](https://www.kbv.de/infothek/zahlen-und-fakten/studien-und-berichte/praxisbarometer-digitalisierung) 2018–2025; Kassenärztliche Bundesvereinigung, [Zulassungsverzeichnisse](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/) (eArztbrief, Stand 21.10.2026) und [Installationsstatistiken](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken); Vergütung und Empfangspflicht laut [KBV, eArztbrief](https://www.kbv.de/praxis/digitalisierung/anwendungen/earztbrief); Abschaltung von KV-Connect laut [KV Bayerns](https://www.kvb.de/fileadmin/kvb/Mitglieder/Service/Serviceschreiben/2025-DS/KVB-RS-250821-Abschaltung-KV-Connect-ab-201025.pdf). TI-Dashboard abgerufen am 4. November 2026, alle anderen Quellen am 22. Oktober 2026. Welche Systeme welche Zulassung haben, steht in [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html); wie es bei den Labordaten aussieht, in [LDT-Befunde ja, Aufträge kaum](https://humanmedizin-in-zahlen.org/beitrag/labordaten-ldt-praxissoftware.html).
+
+## Häufige Fragen
+
+### Wie viele eArztbriefe werden in Deutschland verschickt?
+
+Über KIM 45,2 Millionen im Jahr 2025 und 46,8 Millionen von Januar bis Oktober 2026, laut TI-Dashboard der gematik. Briefe per Fax oder Post sind darin nicht enthalten.
+
+### Welche Praxissoftware kann den eArztbrief?
+
+Laut KBV-Zulassungsverzeichnis Systeme mit 88,9 Prozent der Installationen ärztlicher Systeme, darunter CGM MEDISTAR, CGM TURBOMED, medatixx, tomedo und T2med. Die vollständige Liste steht in der Übersicht der Praxisverwaltungssysteme.
+
+### Nutzen Psychotherapeuten den eArztbrief?
+
+Seltener: Laut PraxisBarometer 2025 nutzen 22 Prozent der psychotherapeutischen Praxen den eArztbrief über KIM, gegenüber 82 Prozent der Arztpraxen mit TI-Anschluss.
+
+### Was bekommt eine Praxis für einen eArztbrief?
+
+Laut KBV 28 Cent für den Versand (GOP 86900) und 27 Cent für den Empfang (GOP 86901), zusammen höchstens 23,40 Euro je Quartal und Arzt. Seit 30. Juni 2024 müssen Praxen eArztbriefe mindestens empfangen können.
+
+---
+
+# MVZ wachsen, ärztliche Einzelpraxen schrumpfen
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/mvz-einzelpraxis-aerzte.html · Stand 2026-10-22 · Humanmedizin in Zahlen, Thomas Freimoser
+
+In Medizinischen Versorgungszentren (MVZ) und anderen ärztlich geleiteten Einrichtungen arbeiteten Ende 2025 32.885 Ärztinnen und Ärzte, 2015 waren es 13.826. Das zeigt das Bundesarztregister der Kassenärztlichen Bundesvereinigung (KBV). Ihr Anteil an allen Ärztinnen und Ärzten in der vertragsärztlichen Versorgung stieg von 10,2 auf 22,4 Prozent. Die Zahl der ärztlichen Einzelpraxen sank im selben Zeitraum von 62.524 auf 50.701, minus 18,9 Prozent.
+
+## Das Wichtigste in Kürze
+
+- **MVZ:** 70 (2004), 2.156 (2015), 5.305 (2025). 2.659 davon haben ein Krankenhaus als Träger, 50,1 Prozent.
+- **Angestellt:** In MVZ arbeiten Ende 2025 32.062 angestellte Ärztinnen, Ärzte und Psychotherapeuten und 1.788 mit eigener Zulassung, 94,7 Prozent sind angestellt. Im Schnitt sind es 6,4 je MVZ.
+- **Köpfe nach Praxisform** (ohne psychologische Psychotherapeuten): Einzelpraxis 69.860 → 64.103, [Berufsausübungsgemeinschaft](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#berufsausuebungsgemeinschaft) 51.679 → 50.143, MVZ und Einrichtungen 13.826 → 32.885.
+- **Die klassische Einzelpraxis** – ein Arzt mit Zulassung, ohne angestellte Ärzte – ging von 56.892 auf 41.304 zurück, minus 27,4 Prozent.
+
+## Mehr Ärzte, weniger Installationen
+
+Insgesamt arbeiten 2025 mehr Ärztinnen und Ärzte in der vertragsärztlichen Versorgung als 2015: 147.131 gegenüber 135.365. Die Installationen der 28 ärztlichen Praxissysteme in der KBV-Statistik sanken dagegen von 78.894 auf 68.191. Beides passt zusammen: Die KBV zählt Installationen, also Abrechnungen mit der Prüfnummer eines Systems, und ein MVZ mit sechs Ärztinnen und Ärzten zählt wie eine Einzelpraxis.
+
+Für Hersteller und Schnittstellenanbieter verschiebt sich damit der Kunde. Statt vieler Einzelpraxen mit einem Arzt kaufen weniger, größere Einheiten: mehrere Standorte, eine gemeinsame Datenbank, angestellte Nutzer mit Rollen und Rechten, bei jedem zweiten MVZ ein Krankenhaus als Träger. Mit welcher Software Krankenhäuser ambulant abrechnen, zeigt [Krankenhaus-Software in der ambulanten Abrechnung](https://humanmedizin-in-zahlen.org/beitrag/krankenhaus-software-ambulant-kis.html).
+
+
+## Was die Zahl nicht sagt
+
+- **Köpfe, keine Stellen.** Das [Bundesarztregister](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#bundesarztregister) zählt Personen, nicht Vollzeitstellen; wie viel jemand arbeitet, steht nicht darin.
+- **Einzelpraxis ist nicht gleich Einzelpraxis.** Auch in Einzelpraxen arbeiten mehr Angestellte: 7.336 Ärztinnen und Ärzte 2015, 13.402 im Jahr 2025. Deshalb sinkt die Zahl der Köpfe in Einzelpraxen (minus 8,2 Prozent) weniger als die Zahl der ärztlichen Einzelpraxen.
+- **Nur ärztlich.** Mit den psychotherapeutischen Einzelpraxen, die von 20.021 auf 29.577 wuchsen, schrumpfen die Einzelpraxen insgesamt kaum. Die Aussage gilt nur für ärztliche Praxen.
+- **Zwei Statistiken.** MVZ-Statistik und Bundesarztregister zählen die Personen in MVZ leicht unterschiedlich (2025: 33.850 gegen 34.317, jeweils mit Psychotherapeuten). Sie stehen deshalb in getrennten Grafiken.
+- **Investoren sind nicht ausgewiesen.** Wie viele MVZ Finanzinvestoren gehören, erhebt keine bundesweite Statistik.
+
+## Gerechnet
+
+Die Personen nach Praxisform ohne psychologische Psychotherapeuten sind gerechnet: Personen je Praxisform minus Psychotherapeuten je Praxisform (2016–2025, KBV-Datenportal), 2015 als Summe der ärztlichen Spalten aus Tabelle 5 der Registerstatistik; dieselbe Rechnung ergibt für 2025 exakt die Werte des Datenportals. Die Zahl der ärztlichen Einzelpraxen 2025, die Angestellten in Einzelpraxen und alle Anteile sind aus Tabelle 5 summiert bzw. geteilt. Der Anteil der Krankenhaus-MVZ ist aus zwei belegten Zahlen gerechnet. Die MVZ-Zahlen selbst sind alle belegt.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Entwicklungen der Medizinischen Versorgungszentren](https://www.kbv.de/documents/infothek/zahlen-und-fakten/mvz/mvz_entwicklungen.pdf) und [MVZ aktuell](https://www.kbv.de/documents/infothek/zahlen-und-fakten/mvz/mvz-aktuell.pdf), Stichtag 31.12.2025; [Gesundheitsdaten: Praxen und Ärzte nach Praxisform](https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/praxen-und-aerzte-nach-praxisform); [Statistische Informationen aus dem Bundesarztregister](https://www.kbv.de/documents/infothek/zahlen-und-fakten/Bundesarztregister/statistische-informationen-bar-2025.pdf) 2015 und 2025, Tabelle 5. Abgerufen am 22. Oktober 2026. Die Installationen je System stehen in [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html), warum Psychotherapie-Praxen getrennt zählen, in [Elefant vor MEDISTAR](https://humanmedizin-in-zahlen.org/beitrag/psychotherapie-software-elefant-psyprax.html).
+
+## Häufige Fragen
+
+### Wie viele Ärzte arbeiten im MVZ?
+
+Ende 2025 33.850 Ärztinnen, Ärzte und Psychotherapeuten laut MVZ-Statistik der KBV, davon 32.062 angestellt. Ohne psychologische Psychotherapeuten arbeiten laut Bundesarztregister 32.885 Ärztinnen und Ärzte in MVZ und anderen Einrichtungen.
+
+### Wie viele MVZ gibt es in Deutschland?
+
+5.305 zum 31.12.2025. 2.659 davon haben ein Krankenhaus als Träger.
+
+### Stirbt die Einzelpraxis aus?
+
+Die ärztliche Einzelpraxis wird seltener: 62.524 im Jahr 2015, 50.701 im Jahr 2025. Sie bleibt aber die häufigste Praxisform. Psychotherapeutische Einzelpraxen nehmen dagegen stark zu.
+
+---
+
+# Krankenhaus-Software in der ambulanten Abrechnung
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/krankenhaus-software-ambulant-kis.html · Stand 2026-10-22 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Vier Krankenhausinformationssysteme stehen in der Statistik der Praxissoftware der Kassenärztlichen Bundesvereinigung (KBV): ORBIS mit 4.073 Installationen Ende 2025, SAP Ambulatory Care Management mit 1.543, CGM MEDICO mit 1.363 und iMedOne mit 969. Zusammen sind das 7.948, 6,8 Prozent aller Installationen. Mit ihnen rechnen Krankenhäuser ihre ambulanten Leistungen bei den Kassenärztlichen Vereinigungen ab.
+
+## Das Wichtigste in Kürze
+
+- **Kaum Wachstum:** 7.302 Installationen Ende 2013, 7.948 Ende 2025. Der Anteil an allen Installationen stieg von 6,2 auf 6,8 Prozent.
+- **ORBIS führt** mit 51,2 Prozent der vier Systeme, seit 2022 leicht rückläufig. SAP wuchs seit 2013 um 23,5 Prozent.
+- **SAP läuft aus:** Das SAP-Modul gehört zum Patientenmanagement SAP IS-H, für das SAP keinen Nachfolger baut. Die Wartung endet Ende 2027, gegen Aufpreis Ende 2030.
+- **Schnittstellen:** ORBIS, CGM MEDICO und iMedOne haben die KBV-Zulassung für den eArztbrief, SAP nicht. Den Import von Laborbefunden nach LDT hat keines der vier zertifiziert.
+
+## 1.543 Installationen suchen einen Nachfolger
+
+SAP hat im Oktober 2022 angekündigt, das Patientenmanagement IS-H nicht in die neue Generation S/4HANA zu übernehmen. Für die Krankenhäuser heißt das: Bis spätestens Ende 2030 muss ein Ersatz laufen, auch für die ambulante KV-Abrechnung, die heute über SAP Ambulatory Care Management geht. Nachfolger bieten andere Hersteller an, etwa auf SAP-Basis oder mit eigenen Abrechnungssystemen.
+
+Für Schnittstellenanbieter ist das einer der wenigen Wechsel im Markt, die ein festes Datum haben. Mit dem Abrechnungssystem wechseln auch dessen Schnittstellen, mindestens die zur KV-Abrechnung.
+
+## Klinik-MVZ: mit dem KIS oder mit Praxissoftware?
+
+Die Zahl der MVZ mit einem Krankenhaus als Träger stieg zwischen 2015 und 2025 von 910 auf 2.659, also um 1.749. Die Installationen der vier Krankenhaussysteme wuchsen im selben Zeitraum nur um 406. Rechnerisch kann deshalb höchstens knapp ein Viertel der neuen Krankenhaus-MVZ mit einem dieser Systeme abrechnen – vorausgesetzt, die übrigen Abrechnungen aus Krankenhausambulanzen sind nicht weniger geworden. Das weist die KBV nicht aus.
+
+Beide Wege gibt es: Hersteller von Krankenhaussystemen bieten die ambulante Erfassung für MVZ an, Hersteller von Praxissoftware werben um MVZ und Klinikambulanzen. Welches System ein Krankenhaus-MVZ nutzt, zählt niemand.
+
+## Was die Zahl nicht sagt
+
+- **Installationen sind keine Krankenhäuser.** Die KBV zählt Abrechnungen mit der Prüfnummer eines Systems. Ein Krankenhaus mit mehreren abrechnenden Ambulanzen kann mehrfach zählen.
+- **Nur die großen vier.** Kleinere Krankenhaussysteme sind nicht einzeln erfasst.
+- **MVZ und Installationen sind verschiedene Einheiten.** Die Rechnung oben ist eine Obergrenze, keine Messung, und gehört nicht in eine gemeinsame Grafik.
+- **2017 bis 2020 sind gerechnet.** Die KBV hat für diese Jahre nur Anteile in Prozent veröffentlicht.
+
+## Gerechnet
+
+16 von 52 Werten der Grafik sind gerechnet, alle in den Jahren 2017 bis 2020: ORBIS aus den KBV-Anteilen für Q3/2017 und Q3/2020, die übrigen Systeme linear zwischen 2016 und 2021. Die Anteile, die Veränderungen und die Obergrenze für Krankenhaus-MVZ (406 von 1.749) sind aus belegten Werten gerechnet. Methode je Wert in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken), Jahresenden 2013 bis 2016 und 2021 bis 2025; [Zulassungsverzeichnisse](https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/) (Stand 21.10.2026); [Entwicklungen der Medizinischen Versorgungszentren](https://www.kbv.de/documents/infothek/zahlen-und-fakten/mvz/mvz_entwicklungen.pdf) (Stichtag 31.12.2025). Zu SAP IS-H: [SAP News, November 2022](https://news.sap.com/germany/2022/11/sap-s4hana-erp-healtcare-krankenhaus-ish-kliniken/), [Deutsche Telekom, Pressemitteilung](https://www.telekom.com/de/medien/medieninformationen/detail/telekom-bietet-kliniken-patientenabrechnungsloesung-an-1029656), [Taylor Wessing, Mai 2026](https://www.taylorwessing.com/de/insights-and-events/insights/2026/05/is-h-abloesung). Abgerufen am 22. Oktober 2026. Wie die MVZ wachsen, zeigt [MVZ wachsen, ärztliche Einzelpraxen schrumpfen](https://humanmedizin-in-zahlen.org/beitrag/mvz-einzelpraxis-aerzte.html), alle Systeme die Übersicht [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html).
+
+## Häufige Fragen
+
+### Mit welcher Software rechnen Krankenhäuser ambulant ab?
+
+In der KBV-Statistik am häufigsten mit ORBIS (Dedalus HealthCare), SAP Ambulatory Care Management, CGM MEDICO (CGM Clinical) und iMedOne (Deutsche Telekom Clinical Solutions), zusammen 7.948 Installationen Ende 2025.
+
+### Wann endet SAP IS-H?
+
+SAP hat die Wartung bis Ende 2027 zugesagt, gegen Aufpreis bis Ende 2030. Einen Nachfolger in S/4HANA baut SAP nicht; Ersatz kommt von anderen Herstellern.
+
+### Nutzen Krankenhaus-MVZ das Krankenhausinformationssystem?
+
+Das ist nicht gezählt. Die Krankenhaussysteme wuchsen seit 2015 aber um 406 Installationen, die Krankenhaus-MVZ um 1.749. Wenn die übrigen Klinikambulanzen nicht weniger wurden, rechnet die Mehrheit der neuen Krankenhaus-MVZ mit anderer Software ab.
+
+---
+
+# Wer zählt die Praxissoftware? Die KBV-Statistik erklärt
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/pvs-statistik-kbv-methode.html · Stand 2026-10-22 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Die einzige vollständige Zählung der Praxissoftware in Deutschland ist die Installationsstatistik der Kassenärztlichen Bundesvereinigung (KBV). Sie zählt Ende 2025 116.954 Installationen in 126 Zeilen, Systeme und Varianten desselben Systems. Gezählt wird nicht, wie viele Praxen oder Ärzte ein System nutzen, sondern wie viele Abrechnungen bei den Kassenärztlichen Vereinigungen mit der Prüfnummer eines Systems eingehen. Nach diesem Maß halten zwei Hersteller, CompuGroup Medical und medatixx, 60,5 Prozent der Installationen ärztlicher Systeme.
+
+## Das Wichtigste in Kürze
+
+- **Was gezählt wird:** Jede Praxis, die quartalsweise mit den Kassen abrechnet, braucht ein zugelassenes System; seine [Prüfnummer](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#kbv-pruefnummer) reist mit der Abrechnung. Die KBV zählt diese Abrechnungen, sie schreibt selbst, die Statistik gebe „kein genaues Abbild des tatsächlichen Marktes“ wieder.
+- **Installationen sind mehr als Praxen:** 116.954 Installationen stehen rund 98.000 Praxen gegenüber (AOK-Magazin G+G, 09/2026). Nebenbetriebsstätten, Klinikambulanzen und Wechselquartale zählen mit.
+- **Konzentration bei den Arztsystemen** (Ende 2025): Die größten drei Systeme haben 32,3 Prozent, die größten fünf 49,6 Prozent. Nach Herstellern: CGM 32,4, medatixx 28,1, INDAMED 8,4, Zollsoft 6,6, T2med 6,0 Prozent.
+- **Verzug:** Der Datenstand 31.12.2025 erschien am 05.10.2026. Von Herbst 2017 bis Herbst 2020 hat die KBV nur Prozentanteile veröffentlicht.
+
+## Warum Herstellerangaben anders aussehen
+
+Hersteller zählen in anderen Einheiten. medatixx nennt auf seiner Website „über 22.500 Praxen“ und im Lobbyregister „mehr als 30 Prozent“ der Humanmediziner. In der KBV-Statistik hat die medatixx-Gruppe Ende 2025 19.159 Installationen, 28,1 Prozent der ärztlichen Systeme. Beides kann stimmen: Ein Hersteller zählt Praxen oder Ärzte und grenzt den Markt selbst ab, die KBV zählt Abrechnungen.
+
+Auch Befragungen eignen sich nicht als Marktanteil. Das Zentralinstitut für die kassenärztliche Versorgung gewichtet seine Zufriedenheitsumfrage zur Praxissoftware deshalb mit der KBV-Statistik. Die Psychotherapeutenvereinigung DPtV fand in ihrer Umfrage 2024 Epikur bei 19 Prozent, die KBV-Statistik der Arztgruppe Psychotherapeuten Ende 2023 bei 15 Prozent – wer an einer Umfrage teilnimmt, ist nicht der Markt.
+
+## Fünf Fallen beim Lesen der KBV-Statistik
+
+1. **Psychotherapie führt die Liste.** Psychotherapeutische Praxen sind fast immer Einzelpraxen, jede zählt einmal. Seit Ende 2023 ist deshalb Elefant das meistinstallierte System. Wer den Markt der Arztpraxen beschreiben will, muss die Psychotherapie-Systeme getrennt zeigen.
+2. **Ein MVZ zählt wie eine Einzelpraxis.** Systeme für große Praxen und MVZ erscheinen kleiner, als ihr Umsatz vermuten ließe.
+3. **Krankenhaussysteme stehen mit drin.** ORBIS, SAP, CGM MEDICO und iMedOne rechnen die Ambulanzen von Kliniken ab, zusammen 6,8 Prozent aller Installationen.
+4. **Die KBV korrigiert still.** Medical Office stand Mitte 2021 mit 9.508 Installationen im Bericht, im nächsten Bericht mit 4.754 für dasselbe Quartal – eine Doppelzählung.
+5. **1997 ist eine andere Welt.** Damals rechneten 69.252 Praxen per EDV ab, 2007 waren es 114.244. Der Anstieg ist Digitalisierung, kein Marktwachstum.
+
+## Was die Zahl nicht sagt
+
+- **Kein Umsatz, keine Zufriedenheit.** Die Statistik sagt nichts über Preise, Lizenzen, Arbeitsplätze oder wie gut ein System ist.
+- **Keine Wechselströme.** Wer von welchem System zu welchem wechselt, steht nirgends; sichtbar sind nur Salden.
+- **Keine Kleinstsysteme einzeln.** Auf dieser Seite sind alle Systeme einzeln erfasst, die irgendwann mindestens 500 Installationen hatten.
+
+## Gerechnet
+
+Die Anteile der Systeme und Hersteller sind aus den KBV-Installationen Ende 2025 gerechnet, bezogen auf die 28 ärztlichen Systeme dieser Seite. Hersteller nach Eigentümer am Stichtag. Alle übrigen Zahlen sind veröffentlichte Werte der genannten Quellen.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken der Praxisverwaltungssysteme](https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken) mit Methodenhinweis, Berichte seit 1998 über das Webarchiv; AOK, [G+G 09/2026](https://www.aok.de/pp/gg/magazine/gesundheit-gesellschaft-09-2026/arztpraxis-softwaresysteme/); Zentralinstitut, [Zi-Paper 32](https://www.zi.de/fileadmin/Downloads/Service/Publikationen/Zi-Paper_32_FINAL.pdf); DPtV, [Umfrage TI und Praxisverwaltungssysteme 2024](https://www.dptv.de/fileadmin/Redaktion/Bilder_und_Dokumente/Wissensdatenbank_oeffentlich/Umfragen/DPtV_Umfrage_TI-PVS_2024.pdf); Eigenangaben medatixx (Website, Lobbyregister R003058). Abgerufen am 20. bis 22. Oktober 2026. Die Zahlen je System stehen in [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html), die Methode je Wert in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+## Häufige Fragen
+
+### Wie wird der Marktanteil von Praxissoftware gemessen?
+
+In Deutschland über die Installationsstatistik der KBV: Gezählt werden Abrechnungen mit der Prüfnummer eines zugelassenen Systems. Das ist ein Anteil an Abrechnungsstellen, nicht an Ärzten oder am Umsatz.
+
+### Warum weichen Herstellerangaben von der KBV ab?
+
+Hersteller zählen Praxen oder Ärzte und grenzen den Markt selbst ab. Die KBV zählt Abrechnungen, auch von Psychotherapie-Praxen und Klinikambulanzen.
+
+### Wie viele Praxisverwaltungssysteme gibt es?
+
+Die KBV führt Ende 2025 126 Zeilen, darunter Varianten desselben Systems und Krankenhaussysteme; die Zahl eigenständiger Praxisprogramme ist kleiner. Die meisten sind klein: Mitte 2023 hatten 76 von 130 Zeilen weniger als 100 Installationen.
+
+---
+
+# Laborärzte: 88,5 Prozent angestellt, kaum noch Praxen
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/labor-angestellte-laboraerzte.html · Stand 2026-10-29 · Humanmedizin in Zahlen, Thomas Freimoser
+
+Ende 2025 nahmen 1.386 Ärztinnen und Ärzte der Fachgruppe Laboratoriumsmedizin an der vertragsärztlichen Versorgung teil, laut Bundesarztregister der Kassenärztlichen Bundesvereinigung (KBV). 1.226 davon waren in MVZ und anderen Einrichtungen angestellt, 88,5 Prozent; 2013 waren es 68,0 Prozent. Mit eigener Zulassung arbeiteten 2013 noch 288 Laborärztinnen und -ärzte, Ende 2025 99.
+
+## Das Wichtigste in Kürze
+
+- **Angestellt im MVZ:** 793 (2013) auf 1.226 (2025) angestellt in Einrichtungen, davon 1.224 in MVZ.
+- **Zulassung:** 288 auf 99, minus 65,6 Prozent. In Einzelpraxen arbeiten noch 35 Laborärztinnen und -ärzte mit Zulassung, 2013 waren es 92.
+- **Zweitquelle:** Die Ärztestatistik der Bundesärztekammer zeigt dasselbe für Fachärztinnen und Fachärzte für Laboratoriumsmedizin im ambulanten Bereich: niedergelassen 337 auf 113, angestellt 329 auf 725.
+- **Größere Gruppen:** Sonic Healthcare hat zum 01.07.2025 die LADR-Gruppe übernommen; die deutschen Labore des Konzerns setzten im Geschäftsjahr bis Juni 2026 2,73 Milliarden australische Dollar um.
+
+## Die Gegenseite der Praxissoftware ist ein Labor-MVZ
+
+Wer eine Schnittstelle zwischen Praxis und Labor baut, verbindet heute nicht zwei Praxen, sondern eine Arztpraxis mit einem Labor-MVZ, das meist zu einer Laborgruppe gehört. Diese Labore stellen den Praxen eigene Systeme für den Laborauftrag bereit und werden dafür seit 2025 mit einer eigenen Pauschale vergütet (GOP 40092). Den Befund schicken sie als LDT-Datei zurück, die fast jede Praxissoftware einlesen kann.
+
+Das passt dazu, dass der digitale Auftrag selten aus der Praxissoftware kommt: Die Gegenseite ist groß genug, um ihre eigene Software in die Praxen zu bringen. Wie die Zulassungen der Praxissysteme aussehen, steht in [LDT-Befunde ja, Aufträge kaum](https://humanmedizin-in-zahlen.org/beitrag/labordaten-ldt-praxissoftware.html).
+
+## Das Kassenhonorar der Labore
+
+Die gesetzlichen Krankenkassen zahlten der Laboratoriumsmedizin im 1. Quartal 2013 314,5 Millionen Euro, im 4. Quartal 2019 413,1 Millionen. Mit den Corona-Tests verdoppelte sich das Quartalshonorar fast, auf 813 Millionen Euro im 1. Quartal 2022. Seit dem 2. Quartal 2022 liegt es zwischen 520 und 578 Millionen, im 3. Quartal 2024 bei 553,2 Millionen (KBV-Honorarbericht). Die Spitzen fallen mit den Abrechnungen der PCR-Tests zusammen.
+
+## Was die Zahl nicht sagt
+
+- **Personen, keine Labore.** Wie viele Laborpraxen und Labor-MVZ es gibt, veröffentlicht keine Statistik. Auch Marktanteile der Laborgruppen lassen sich nicht ehrlich rechnen: Die Umsätze enthalten Privat- und Krankenhausleistungen, sind in verschiedenen Währungen und Geschäftsjahren angegeben, und für die meisten Gruppen fehlen sie.
+- **Fachgruppe einschließlich Mikrobiologie.** Das [Bundesarztregister](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#bundesarztregister) fasst Laboratoriumsmedizin und Mikrobiologie zusammen. Die Bundesärztekammer zählt den Facharzt für Laboratoriumsmedizin allein.
+- **Die Zweitquelle hat einen Sprung.** In der Ärztestatistik sinkt die Zahl der niedergelassenen Laborärzte von 2021 auf 2022 von 220 auf 150; im Bundesarztregister gibt es diesen Sprung nicht. Deshalb zeigt die Grafik nur das Bundesarztregister.
+- **Nicht im Bild:** Ermächtigte, Angestellte in Praxen und Jobsharing, 2025 zusammen 61 Personen.
+
+## Gerechnet
+
+Alle Werte der Grafik sind belegt. Gerechnet sind die Anteile (angestellt an allen, Rückgang der Zulassungen) und die Zahl der Laborärztinnen und -ärzte mit Zulassung in Einzelpraxen, summiert aus Tabelle 5 des Bundesarztregisters (mit und ohne angestellte Ärzte). Der Umsatz von Sonic ist ein veröffentlichter Wert, gerundet. Die Quartalshonorare stehen so im Honorarbericht der KBV, auf 0,1 Millionen Euro gerundet.
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Honorarbericht](https://www.kbv.de/documents/infothek/zahlen-und-fakten/honorarbericht/honorarbericht-tabellen.xlsx) (Quartale 1/2013–3/2024) und [Statistische Informationen aus dem Bundesarztregister](https://www.kbv.de/documents/infothek/zahlen-und-fakten/Bundesarztregister/statistische-informationen-bar-2025.pdf), Stände 31.12.2013 bis 31.12.2025, Tabellen 1.0, 5 und 9; Bundesärztekammer, [Ärztestatistik](https://www.bundesaerztekammer.de/fileadmin/user_upload/BAEK/Ueber_uns/Statistik/AErztestatistik_2025.pdf), Tabelle 3, 2013 bis 2025 (ältere Jahrgänge über das Webarchiv); Sonic Healthcare, [Financial and Operational Review, Geschäftsjahr bis 30.06.2026](https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/CEO/Financial_and_Operational_Review_30_June_2026.pdf). Abgerufen am 22. Oktober 2026. Wie MVZ insgesamt wachsen, zeigt [MVZ wachsen, ärztliche Einzelpraxen schrumpfen](https://humanmedizin-in-zahlen.org/beitrag/mvz-einzelpraxis-aerzte.html).
+
+## Häufige Fragen
+
+### Sind Laborärzte angestellt oder selbstständig?
+
+In der Kassenversorgung überwiegend angestellt: Ende 2025 88,5 Prozent, fast alle in MVZ. Mit eigener Zulassung arbeiten noch 99 Laborärztinnen und -ärzte.
+
+### Wie viele Laborärzte gibt es in Deutschland?
+
+In der vertragsärztlichen Versorgung 1.386 (Fachgruppe Laboratoriumsmedizin einschließlich Mikrobiologie, Ende 2025). Laut Bundesärztekammer waren 2025 1.252 Fachärztinnen und Fachärzte für Laboratoriumsmedizin berufstätig, 838 davon ambulant.
+
+### Wie viele Labore gibt es?
+
+Das zählt keine amtliche Statistik. Der Branchenverband ALM nennt auf seiner Website 20 Laborgruppen als Mitglieder, darunter Sonic Healthcare, SYNLAB, Limbach, amedes und LADR.
+
+---
+
+# Praxissoftware der Allgemeinmediziner: medatixx vorn
+
+Quelle: https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html · Stand 2026-10-29 · Humanmedizin in Zahlen, Thomas Freimoser
+
+In der Arztgruppe Allgemeinmediziner der Kassenärztlichen Bundesvereinigung (KBV) führt Ende 2025 erstmals medatixx: 1.892 Installationen, knapp vor CGM MEDISTAR mit 1.857 und CGM TURBOMED mit 1.850. Drei Monate vorher lag medatixx noch auf Platz 3. T2med folgt mit 1.737 Installationen auf Platz 4; Ende 2020 waren es 505.
+
+## Das Wichtigste in Kürze
+
+- **Die Spitze ist eng:** Zwischen Platz 1 und Platz 4 liegen 155 Installationen. Unter allen Arztsystemen führt dagegen CGM MEDISTAR mit deutlichem Abstand.
+- **CGM verliert hier besonders:** TURBOMED fiel bei den Allgemeinmedizinern von 3.321 Installationen Ende 2020 auf 1.850 (minus 44,3 Prozent), MEDISTAR von 2.555 auf 1.857 (minus 27,3 Prozent).
+- **Die Neuen wachsen hier besonders:** T2med von 505 auf 1.737, tomedo von 291 auf 920, das neue medatixx von 621 auf 1.892.
+- **Nach Herstellern** (die 20 größten Systeme der Gruppe, 18.909 Installationen): medatixx 31,1 Prozent, CompuGroup Medical 28,6 Prozent, Medical Office, tomedo und T2med zusammen 22,2 Prozent.
+
+## Warum die Allgemeinmedizin anders aussieht
+
+In der Gesamtliste der ärztlichen Systeme hat CompuGroup Medical 32,4 Prozent und liegt vor medatixx. Bei den Allgemeinmedizinern ist es umgekehrt. T2med hat hier 9,2 Prozent der Installationen der 20 größten Systeme, unter allen ärztlichen Systemen 6,0 Prozent.
+
+Die KBV ordnet jede Installation der [Arztgruppe](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html#arztgruppe) zu, in der abgerechnet wird; jede Gruppe hat deshalb ihren eigenen Markt. Warum Allgemeinmediziner anders wählen als andere Fachgruppen und warum eine Praxis wechselt, sagt die Statistik nicht.
+
+Für Anbieter von Schnittstellen heißt das: In der Allgemeinmedizin teilen sich vier Systeme die Spitze fast gleichauf, jedes hat für sich höchstens rund ein Zehntel der Installationen der 20 größten Systeme.
+
+Dazu kommt Nachwuchs: 2024 waren 10.752 Ärztinnen und Ärzte in einer geförderten ambulanten Weiterbildung zur Allgemeinmedizin, fast doppelt so viele wie 2015 mit 5.449 ([KBV, Förderung der Allgemeinmedizin](https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/foerderung-allgemeinmedizin), abgerufen am 29. Oktober 2026). Viele von ihnen arbeiten in Teilzeit: Den Köpfen entsprachen 2024 rund 6.130 Vollzeitstellen. Wie viele sich später niederlassen und dabei eine Praxissoftware neu wählen oder übernehmen, zählt keine Statistik.
+
+## Was die Zahl nicht sagt
+
+- **Allgemeinmediziner sind nicht alle Hausärzte.** Hausärztlich tätige Internisten stehen in der Arztgruppe Internisten, zusammen mit fachärztlichen; dort führt CGM MEDISTAR. Praktiker sind eine eigene Gruppe.
+- **Nur die 20 größten Systeme.** Die KBV veröffentlicht je Arztgruppe nur diese; Anteile beziehen sich auf sie.
+- **Installationen, keine Praxen.** Gezählt werden Abrechnungen mit der Prüfnummer eines Systems. Wie viele Ärztinnen und Ärzte an einer Installation arbeiten, steht nicht darin.
+- **Keine Bewertung.** Die Zahlen zeigen Verbreitung, nicht Qualität. Diese Seite empfiehlt keine Software.
+
+## Gerechnet
+
+Für Ende 2022 und Ende 2023 ist kein KBV-Bericht archiviert. Die Werte der Grafik für diese Jahre sind linear zwischen den nächsten belegten Quartalen gerechnet (31.03.2022 und 31.03.2023 bzw. 30.09.2023 und 31.12.2024), 20 von 60 Werten. Gerechnet sind außerdem die Herstelleranteile und Veränderungen. Alle anderen Werte stehen so in den Berichten. Methode je Wert in der [Datenherkunft](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html).
+
+## Quelle und Methode
+
+Kassenärztliche Bundesvereinigung, [Installationsstatistiken je Arztgruppe](https://update.kbv.de/ita-update/Service-Informationen/Installationsstatistiken/) (Arztgruppe Allgemeinmediziner und „TOP 20 Systeme je Fachgruppe“, Datenstand 31.12.2025); ältere Berichte über das Webarchiv (Datenstände 31.12.2020 bis 30.06.2025). Abgerufen am 26. Oktober 2026. Den Markt aller Arztsysteme zeigt [Welche Praxissoftware Arztpraxen nutzen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html), die Hersteller [CGM, medatixx und die Neuen](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html), alle Systeme [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html).
+
+## Häufige Fragen
+
+### Welche Praxissoftware nutzen Allgemeinmediziner?
+
+Ende 2025 am häufigsten medatixx (1.892 Installationen), CGM MEDISTAR (1.857), CGM TURBOMED (1.850), T2med (1.737) und Medical Office (1.548), laut KBV-Statistik der Arztgruppe Allgemeinmediziner.
+
+### Welche Praxissoftware nutzen Hausärzte?
+
+Eine Statistik für alle Hausärzte gibt es nicht. Die KBV zählt nach Arztgruppen; die größte hausärztliche Gruppe sind die Allgemeinmediziner, dort führt Ende 2025 medatixx. Hausärztlich tätige Internisten zählen zu den Internisten, wo CGM MEDISTAR vorn liegt.
+
+### Welche Praxissoftware wächst bei Allgemeinmedizinern?
+
+T2med, tomedo und das neue medatixx haben sich seit Ende 2020 jeweils etwa verdreifacht. CGM TURBOMED, CGM MEDISTAR und x.isynet verloren im selben Zeitraum ein Viertel bis fast die Hälfte ihrer Installationen.

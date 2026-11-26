@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://humanmedizin-in-zahlen.org/sitemap.xml

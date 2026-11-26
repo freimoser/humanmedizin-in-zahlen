@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="de" data-brand="signal">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Datenherkunft: Quellen und Methode aller Datensätze</title>
+    <meta name="dcterms.modified" content="2026-11-25" />
+    <meta name="description" content="Für jeden Datensatz von Humanmedizin in Zahlen: Quelle, Zeitraum, Annahmen, was gerechnet ist und wann zuletzt gegen die Quelle geprüft." />
+    <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="../favicon-96.png" sizes="96x96" type="image/png" />
+    <link rel="icon" href="../favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="../apple-touch-icon.png" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Datenherkunft: Quellen und Methode" />
+    <meta property="og:description" content="Quelle, Zeitraum, Annahmen und Stand für alle Datensätze zu Arztpraxen und Praxissoftware." />
+    <meta property="og:locale" content="de_DE" />
+    <script type="module" crossorigin src="/assets/modulepreload-polyfill-P2Xu9kJm.js"></script>
+    <script type="module" crossorigin src="/assets/consent-hyGHVgHl.js"></script>
+    <script type="module" crossorigin src="/assets/article-B84rEXZQ.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/article-DKjWRzGi.css">
+    <link rel="canonical" href="https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html" />
+  <meta property="og:url" content="https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html" />
+  <meta property="og:image" content="https://humanmedizin-in-zahlen.org/og/artikel-datenherkunft.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Humanmedizin in Zahlen: Datenherkunft: Quellen und Methode" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="alternate" type="application/atom+xml" title="Humanmedizin in Zahlen: neue Artikel" href="https://humanmedizin-in-zahlen.org/feed.xml" />
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <a class="marke" href="../"><svg class="zeichen" width="26" height="26" viewBox="0 0 28 28" aria-hidden="true"><rect width="28" height="28" rx="7" fill="var(--brand-primary)"/><rect x="6" y="7" width="16" height="3.2" rx="1.6" fill="#fff"/><rect x="6" y="12.4" width="11" height="3.2" rx="1.6" fill="var(--brand-accent)"/><rect x="6" y="17.8" width="7" height="3.2" rx="1.6" fill="#fff" opacity=".75"/></svg><span>Humanmedizin in Zahlen</span></a>
+        <nav aria-label="Hauptnavigation">
+          <a href="../beitrag/">Artikel</a>
+          <a href="../artikel/praxisverwaltungssysteme-deutschland.html">Praxissoftware</a>
+          <a href="../artikel/datenherkunft.html" aria-current="page">Datenherkunft</a>
+          <a class="breit" href="../studio/#redaktionsplan">Redaktionsplan</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <article>
+        <nav class="brotkrumen" aria-label="Brotkrumen"><ol><li><a href="../">Humanmedizin in Zahlen</a></li><li><a href="../beitrag/">Alle Artikel</a></li></ol></nav>
+        <h1>Woher die Zahlen kommen</h1>
+        <p class="lead">
+          Diese Seite sagt für jeden Datensatz von Humanmedizin in Zahlen, aus welcher Quelle er stammt, was die Quelle
+          eigentlich zählt, wo eine Annahme getroffen werden musste, welche Werte gerechnet sind und wann zuletzt gegen
+          die Quelle geprüft wurde.
+        </p>
+        <p class="meta">Stand 20. Oktober 2026 · von <a href="../ueber-das-projekt.html">Thomas Freimoser</a></p>
+
+        <div class="note">
+          <strong>Warum das Datum wichtig ist:</strong> Die KBV veröffentlicht ihre Statistiken quartalsweise,
+          Herstellerangaben und Zulassungen ändern sich laufend. Jeder Datensatz trägt deshalb ein Recherche- und ein
+          Prüfdatum. Was älter als ein Jahr ist, wird vor der Wiederverwendung erneut gegen die Quelle gehalten – nicht
+          stillschweigend fortgeschrieben.
+        </div>
+
+        <h2 id="nutzung">Nutzung der Daten</h2>
+        <p>
+          Die Tabellen dieser Seite, also die CSV-Dateien zu den Artikeln, die Zusammenstellung der Reihen und alle
+          Berechnungen, stehen unter der Lizenz
+          <a href="https://creativecommons.org/licenses/by/4.0/deed.de" rel="noopener license">Creative Commons
+          Namensnennung 4.0 (CC BY 4.0)</a>. Sie dürfen sie weiterverwenden, auch kommerziell, wenn Sie
+          „Humanmedizin in Zahlen, Thomas Freimoser“ und die Originalquelle nennen.
+        </p>
+        <p>
+          Die Rechte an den Ursprungsdaten bleiben bei den Quellen, etwa der Kassenärztlichen Bundesvereinigung, der
+          gematik oder dem Statistischen Bundesamt (Datenlizenz Deutschland). Wer eine Reihe in größerem Umfang übernimmt,
+          prüft deren Nutzungsbedingungen; welche Quelle hinter welcher Reihe steht, sagt der jeweilige Abschnitt unten.
+        </p>
+
+        <h2 id="kbv-installationsstatistik">Installationsstatistik der KBV</h2>
+        <p>
+          <strong>Quelle:</strong> Kassenärztliche Bundesvereinigung,
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/pvs-installationsstatistiken" rel="noopener">Installationsstatistiken der Praxisverwaltungssysteme</a>,
+          quartalsweise. Aktueller Datenstand: 31.12.2025 (Q4/2025),
+          <a href="https://update.kbv.de/ita-update/Service-Informationen/Installationsstatistiken/Gesamt_Systeme_Installationen.pdf" rel="noopener">Gesamtliste als PDF</a>.
+        </p>
+        <p>
+          <strong>Was gezählt wird:</strong> Installationen eines Systems, erkannt an seiner Prüfnummer in den
+          Abrechnungen, die Praxen an ihre Kassenärztliche Vereinigung schicken. Das ist keine Zahl der Praxen und keine
+          Zahl der Ärztinnen und Ärzte. Die KBV weist selbst darauf hin, dass die Statistik kein genaues Abbild des
+          tatsächlichen Marktes ist. Praxen ohne Kassenzulassung erscheinen nicht.
+        </p>
+        <p>
+          <strong>Was hier aufbereitet ist:</strong> Die Summe aller Installationen (116.954 zum 31.12.2025) steht nicht in
+          der Statistik, sie ist über alle 126 Zeilen gebildet. Jedes System ist einem Einsatzbereich zugeordnet:
+          ärztliche Praxis, Psychotherapie, gemischt oder Krankenhaus. Grundlage sind die Angaben der Hersteller; die
+          KBV selbst trennt nicht. Die Zuordnung zu Herstellern folgt dem Eigentümer am jeweiligen Stichtag.
+        </p>
+        <p>
+          <strong>Grenzen:</strong> Systeme, die in ärztlichen und psychotherapeutischen Praxen laufen (etwa Epikur und
+          SMARTY), lassen sich aus der Statistik nicht aufteilen und stehen als „gemischt“. Umbenennungen von Produkten
+          führen die KBV-Listen nicht immer nach; wo ein System den Namen gewechselt hat, ist das im Datensatz vermerkt.
+        </p>
+        <p><strong>Erstellt</strong> 20.10.2026 · <strong>geprüft</strong> 20.10.2026</p>
+
+        <h2 id="kbv-zulassungen">Zulassungsverzeichnisse der KBV</h2>
+        <p>
+          <strong>Quelle:</strong> Kassenärztliche Bundesvereinigung,
+          <a href="https://update.kbv.de/ita-update/Service-Informationen/Zulassungsverzeichnisse/" rel="noopener">Zulassungsverzeichnisse</a>
+          für Abrechnung (KVDT), Labordatenkommunikation (LDK, LDT 3), eArztbrief und 1-Click-KIM, Stand 21.10.2026.
+        </p>
+        <p>
+          <strong>Was gezählt wird:</strong> ob ein System für einen Anwendungsfall zertifiziert ist, mit Prüfnummer und
+          Gültigkeit. Eine Zulassung sagt nicht, wie viele Praxen die Funktion tatsächlich nutzen. Schnittstellen ohne
+          KBV-Zertifizierung, etwa GDT für Medizingeräte, HL7 oder herstellereigene Programmierschnittstellen, stehen
+          nicht in den Verzeichnissen. Sie sind im Artikel nur genannt, wo der Hersteller sie öffentlich dokumentiert.
+        </p>
+        <p><strong>Erstellt</strong> 20.10.2026 · <strong>geprüft</strong> 20.10.2026</p>
+
+        <h2 id="pvs-installationen">Datensatz: Praxissoftware in Arztpraxen</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen je Praxisverwaltungssystem zum Jahresende 2013 bis 2025, 28 Systeme für
+          ärztliche Praxen, jedes mit mindestens einmal 500 Installationen seit 2013. Psychotherapie-Systeme (Elefant,
+          psyprax, PsychoDat, Epikur, SMARTY, RED Medical) und Krankenhaussysteme sind herausgenommen. Grundlage für die
+          Einordnung ist der Anteil der Installationen eines Systems in der KBV-Arztgruppe Psychotherapeuten: bei den
+          herausgenommenen 84 bis 98 Prozent, bei allen aufgenommenen höchstens 12 Prozent.
+        </p>
+        <p>
+          <strong>Belegt:</strong> 2013 bis 2016 und 2021 bis 2025 aus den KBV-Berichten, ältere über das Webarchiv. Vor dem
+          Markteintritt steht 0, wo der Eintritt belegt ist (medatixx seit 2014, T2med seit 2015). easymed steht ab 2023
+          nicht mehr in der Liste und hat dort 0.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 2017 bis 2020. Die KBV hat für diese Jahre nur Anteile mit einer Nachkommastelle
+          veröffentlicht (Q3/2017 und Q3/2020). Installationen = Anteil × Gesamtzahl aller Installationen; die Gesamtzahl
+          liegt linear zwischen Ende 2016 (120.379) und Ende 2021 (119.405). Die Jahresenden 2017 bis 2020 liegen linear
+          zwischen diesen Stützpunkten. Systeme ohne veröffentlichten Anteil sind linear zwischen 2016 und 2021 gerechnet.
+          Eine Nachkommastelle entspricht rund 60 Installationen Unschärfe. Zusammen 113 gerechnete Werte, jeder mit Methode
+          in der Rohdatei <code>pvs-gerechnet.json</code>.
+        </p>
+        <p>
+          <strong>Auffällig:</strong> Medical Office springt laut KBV-Anteil von 1.832 Installationen Ende 2016 auf rund
+          3.000 im Herbst 2017. Für 2021 hat die KBV Medical Office nachweislich doppelt gezählt (9.508 statt 4.754) und im
+          Folgebericht korrigiert; der unkorrigierte Wert für das erste Quartal 2021 ist deshalb nicht verwendet. Ob
+          2017 bis 2020 ebenfalls betroffen sind, ist offen.
+        </p>
+        <p><strong>Erstellt</strong> 20.10.2026 · <strong>geprüft</strong> 20.10.2026 · Artikel:
+          <a href="../beitrag/praxissoftware-arztpraxen-marktanteile.html">Welche Praxissoftware Arztpraxen nutzen</a></p>
+
+        <h2 id="pvs-installationen-1991">Datensatz: Praxissoftware in Arztpraxen seit 1991</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen ärztlicher Praxissysteme je Jahresende 1991 bis 2025, ohne Psychotherapie- und
+          Klinik-Systeme. <strong>Bis 1996 eine Schätzung:</strong> Die KBV hat damals keine Installationszahlen je System
+          veröffentlicht, nur Anteile der Anbieter am Bestand und an den Verkäufen.
+        </p>
+        <p>
+          <strong>Quellen bis 1997</strong> (KBV-Prüfstelle im Deutschen Ärzteblatt):
+          <a href="https://www.aerzteblatt.de/pdf/86/47/a3621.pdf">1989</a> (Bestand 5.761 Anlagen, Top 60 Anbieter),
+          <a href="https://www.aerzteblatt.de/pdf/89/10/a846.pdf">1992</a> (Top 5 Anbieter 1989–1991, EDV-Quote),
+          <a href="https://www.aerzteblatt.de/pdf/89/46/a3935.pdf">1992</a> (Verkaufsanteile 1992, Quote alte und neue Länder),
+          <a href="https://www.aerzteblatt.de/pdf/91/10/a683.pdf">1994</a> (Verkäufe 1993),
+          <a href="https://www.aerzteblatt.de/pdf/91/44/a3039.pdf">1994</a> (38.336 EDV-Ärzte Ende 1993),
+          <a href="https://www.aerzteblatt.de/pdf/92/12/a864.pdf">1995</a> (Verkaufsanteile 1994, 19.668 Verkäufe),
+          <a href="https://www.aerzteblatt.de/pdf/95/12/s8-12.pdf">1998</a> (EDV-Quote 1986–1997, Top 20 Ende 1997);
+          Ärztezahlen aus den <a href="http://www.thorwart-online.de/KBV-Grunddaten%202009.pdf">KBV-Grunddaten 2009</a>.
+          Ab 1997 die KBV-Listen wie beim Datensatz ab 2007. Alle abgerufen am 25.11.2026.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> Gesamtbestand = EDV-Quote × Vertragsärzte × Installationen je EDV-Arzt; je System 1991
+          der Bestandsanteil, 1992–1994 Vorjahr plus Verkaufsanteil, 1995/1996 linear bis zur KBV-Liste 1997; 1998–2006
+          linear zwischen den KBV-Stichtagen. 69 Prozent aller Werte sind gerechnet (1991–1996 alle). Jeder Wert mit Methode
+          in <code>data/raw/pvs-gerechnet.json</code>.
+        </p>
+        <p>
+          <strong>Gegenläufige Belege:</strong> Die KBV nennt für Ende 1991 je nach Grafik 16,5 % (alle KVen), 20,3 % oder
+          20,7 % (alte Länder); verwendet sind 16,5 %. In der Grafik von 1995 ist die Achse um ein Jahr verschoben
+          (52,92 % steht bei 1995, gemeint ist der Jahreswechsel 1994/95); verwendet ist die Reihe von 1998.
+        </p>
+        <p><strong>Erstellt</strong> 25.11.2026 · <strong>geprüft</strong> 25.11.2026</p>
+
+        <h2 id="pvs-installationen-2007">Datensatz: Praxissoftware in Arztpraxen seit 2007</h2>
+        <p>
+          <strong>Inhalt:</strong> dieselbe Abgrenzung wie oben, Jahresende 2007 bis 2025, 30 Systeme (jedes mit
+          mindestens einmal 500 Installationen seit 2007), im Video 20 Zeilen. 2007 ist das erste Jahr mit vollständiger
+          KBV-Liste, die im Webarchiv erhalten ist (KBV-Archiv DARIS).
+        </p>
+        <p>
+          <strong>Belegt:</strong> die Jahresenden 2007, 2013 bis 2016 und 2021 bis 2025. Teilbelege dazwischen: Mitte 2009
+          die 20 größten Systeme (Dissertation M. Kersting, Medizinische Hochschule Hannover, nach KBV; der Stichtag ist aus
+          den Prozentangaben erschlossen und nicht ganz sicher), Ende 2010 die fünf größten (Ärzte Zeitung nach KBV), Mitte
+          2011 die sieben größten, Ende 2011 die KBV-Werte je Anbieter.
+        </p>
+        <p>
+          <strong>Angenommen:</strong> Für acht Anbieter, die laut Abgleich der KBV-Listen nur ein nennenswertes System
+          hatten (MEDISTAR, TurboMed, DURIA, S3-Win, Med7, EL, Data-AL, easymed), ist der Anbieterwert Ende 2011 als
+          Systemwert übernommen.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> die Jahresenden 2008 bis 2012 linear zwischen den Belegen davor und danach, 2017 bis
+          2020 wie oben. PDE-TOP (2007: 987) steht ab 2013 nicht mehr in der vollständigen Liste und hat dort 0. Für DATA
+          VITAL und ETERNO Cloud ist der erste Beleg nach vorn gehalten. Zusammen 249 von 570 Werten gerechnet oder
+          angenommen; von den jeweils 20 sichtbaren Balken 176 von 380. Nicht verwendet: PSYPRAX Mitte 2010 (6.198 laut
+          Ärzte Zeitung, gegen 8.219 im Jahr 2009 und 8.777 im Jahr 2011 sehr wahrscheinlich ein Übertragungsfehler).
+        </p>
+        <p><strong>Erstellt</strong> 21.10.2026 · <strong>geprüft</strong> 21.10.2026</p>
+
+        <h2 id="pvs-momentaufnahmen">Momentaufnahmen 1997, 2000 und 2005</h2>
+        <p>
+          Für die Zeit vor 2007 ist keine lückenlose Reihe möglich, für 2001 bis 2004 und 2006 ist keine Liste je System
+          erhalten. Der Artikel zeigt deshalb drei belegte Stände ohne Animation: Ende 1997 (KBV, Top 60 Systeme,
+          Gesamtzahl 69.252), Mitte 2000 (KBV, Abrechnungsquartal 2/2000, Top 60, Gesamtzahl 77.501) und 2005 (Dissertation
+          Kersting, Top 20). Bis 2000 nennt die KBV als „Stand“ das Datum der Auswertung; gemeint ist das Quartal davor.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> Von 1999 bis 2001 führte die KBV DOS- und Windows-Version eines Systems in getrennten
+          Zeilen. Für MEDISTAR, TURBOMED und ALBIS sind beide Zeilen addiert. Bei MEDISTAR deckt sich die Summe mit dem
+          KBV-Anbieterwert.
+        </p>
+        <p><strong>Erstellt</strong> 21.10.2026 · <strong>geprüft</strong> 21.10.2026</p>
+
+        <h2 id="pvs-hersteller">Datensatz: CGM, medatixx und die Herausforderer</h2>
+        <p>
+          <strong>Inhalt:</strong> Summen der Systeme aus dem Datensatz oben, je Hersteller nach dem Eigentümer am Stichtag.
+          CompuGroup Medical: MEDISTAR, TURBOMED, ALBIS, M1 PRO, DATA VITAL. medatixx: x.isynet, x.concept, x.comfort,
+          medatixx, easymed und ab 2022 EL, nach der Übernahme von Softland im April 2022. Herausforderer: Medical Office
+          (INDAMED), tomedo (Zollsoft) und T2med.
+        </p>
+        <p>
+          <strong>Grenzen:</strong> Kleinstsysteme unter 500 Installationen fehlen. Wechsel zwischen Produkten desselben Herstellers verschieben nichts zwischen den Linien. Gerechnet sind
+          dieselben Jahre wie oben.
+        </p>
+        <p><strong>Erstellt</strong> 20.10.2026 · <strong>geprüft</strong> 20.10.2026</p>
+
+        <h2 id="pvs-psychotherapie">Datensatz: Psychotherapie-Software und MEDISTAR</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen von Elefant, psyprax und Epikur sowie CGM MEDISTAR, Jahresende 2013 bis 2025,
+          aus der Installationsstatistik der KBV. Elefant, psyprax und Epikur laufen zu 97, 96 und 94 Prozent in der
+          Arztgruppe Psychotherapeuten (KBV-Bericht je Arztgruppe, Ende 2025).
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 16 von 52 Werten, alle 2017 bis 2020, nach derselben Methode wie oben (Anteile Q3/2017 und
+          Q3/2020, Gesamtzahl linear). SMARTY und PsychoDat sind belegt, aber nicht im Bild, um bei vier Linien zu bleiben.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="pvs-aufsteiger">Datensatz: Die Aufsteiger</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen von Medical Office, tomedo, T2med und ETERNO Cloud, Jahresende 2013 bis 2025,
+          aus der Installationsstatistik der KBV. Markteintritt belegt: tomedo Mitte 2013, T2med 2015.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 17 von 52 Werten: 2017 bis 2020 wie oben, dazu ETERNO Cloud 2013 (erster Beleg Ende 2014
+          gehalten). Medical Office springt laut KBV-Anteil 2017 stark; für 2021 hat die KBV Medical Office nachweislich doppelt
+          gezählt und korrigiert, ob 2017 bis 2020 betroffen sind, ist offen.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="pvs-allgemeinmediziner">Datensatz: Praxissoftware der Allgemeinmediziner</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen der zehn größten Systeme Ende 2025 in der KBV-Arztgruppe
+          Allgemeinmediziner, Jahresende 2020 bis 2025, aus den Berichten der KBV je Arztgruppe (aktueller Bericht und archivierte
+          Fassungen im Webarchiv). Die KBV nennt je Arztgruppe nur die 20 größten Systeme. Allgemeinmediziner sind nicht alle
+          Hausärzte; hausärztlich tätige Internisten zählen zur Arztgruppe Internisten.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 20 von 60 Werten, die Jahresenden 2022 und 2023, für die kein Bericht archiviert ist: linear
+          zwischen den nächsten belegten Quartalen (31.03.2022 und 31.03.2023 bzw. 30.09.2023 und 31.12.2024). Fundstelle jedes
+          belegten Werts in <code>data/raw/pvs-kbv-allgemeinmediziner.csv</code>.
+        </p>
+        <p><strong>Erstellt</strong> 26.10.2026 · <strong>geprüft</strong> 26.10.2026</p>
+
+        <h2 id="pvs-internisten">Datensatz: Praxissoftware der Internisten</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen der acht größten Systeme Ende 2025 (ohne tomedo, das Ende 2020 nicht unter den
+          Top 20 stand) in der KBV-Arztgruppe Internisten, Jahresende 2020 bis 2025, aus den Berichten der KBV je Arztgruppe
+          (aktuell und Webarchiv). Fundstelle je Wert in <code>data/raw/pvs-kbv-internisten.csv</code>.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 16 von 48 Werten, die Jahresenden 2022 und 2023: linear zwischen den nächsten belegten
+          Quartalen (31.03.2022 und 31.03.2023 bzw. 30.06.2023 und 31.12.2024).
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="pvs-saldo">Datensatz: Gewinner und Verlierer seit Ende 2021</h2>
+        <p>
+          <strong>Inhalt:</strong> Veränderung der Installationen gegenüber Ende 2021 für die zwei größten Gewinner (medatixx,
+          tomedo) und Verlierer (CGM TURBOMED, CGM MEDISTAR). Alle Jahresendwerte 2021 bis 2025 sind belegt; gerechnet ist nur
+          die Differenz. Der Generator prüft die Auswahl bei jeder neuen KBV-Ausgabe.
+        </p>
+        <p>
+          <strong>Grenzen:</strong> Salden, keine Wechselströme. Die Summen über Gewinner und Verlierer beziehen sich auf die 40
+          Systeme mit mindestens einmal 500 Installationen.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="pvs-kis">Datensatz: Krankenhaus-Software in der ambulanten Abrechnung</h2>
+        <p>
+          <strong>Inhalt:</strong> Installationen von ORBIS, SAP Ambulatory Care Management, CGM MEDICO und iMedOne, Jahresende
+          2013 bis 2025, aus der Installationsstatistik der KBV. Mit ihnen rechnen Krankenhäuser ambulante Leistungen ab.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 16 von 52 Werten, alle 2017 bis 2020: ORBIS aus den KBV-Anteilen, die übrigen linear zwischen
+          2016 und 2021. Die Gegenüberstellung mit den Krankenhaus-MVZ im Artikel ist eine Obergrenze unter einer Annahme, keine
+          Messung, und steht deshalb nicht in der Grafik.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="earztbrief-monat">Datensatz: eArztbriefe über KIM je Monat</h2>
+        <p>
+          <strong>Inhalt:</strong> Mit KIM gesendete elektronische Arztbriefe je Monat, März 2022 bis Oktober 2026, aus dem
+          <a href="https://ti-lage.prod.ccs.gematik.solutions/d/_v5YC1HVk/ti-dashboard-verlauf-kim">TI-Dashboard der gematik</a>.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> alle Monatswerte. Die gematik veröffentlicht einen Zähler seit 01.08.2021 (Stand 0 Uhr UTC);
+          jeder Monatswert ist die Differenz zweier Monatsendstände. Die Jahressummen sind gleich den Differenzen der
+          Jahresendstände, das prüft die Konsistenzprüfung.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 04.11.2026</p>
+
+        <h2 id="erezept-monat">Datensatz: E-Rezepte je Monat</h2>
+        <p>
+          <strong>Inhalt:</strong> In Apotheken eingelöste E-Rezepte je Monat, März 2022 bis Oktober 2026, aus dem
+          <a href="https://ti-lage.prod.ccs.gematik.solutions/d/W19ANiYnk/ti-dashboard-verlauf-erp">TI-Dashboard der gematik</a>.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> alle Monatswerte, als Differenz zweier Monatsendstände des kumulierten Zählers (Stand 0 Uhr
+          UTC). Zweitquelle: Die ABDA nennt für 2025 582 Millionen eingelöste E-Rezepte, wie die Summe der Monatswerte. Seit
+          1. Januar 2024 ist das E-Rezept Pflicht; deshalb der Sprung im Januar 2024.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 04.11.2026</p>
+
+        <h2 id="eau-monat">Datensatz: eAU je Monat</h2>
+        <p>
+          <strong>Inhalt:</strong> An die Krankenkassen per KIM gesendete elektronische Arbeitsunfähigkeitsbescheinigungen je
+          Monat, März 2022 bis Oktober 2026, aus dem
+          <a href="https://ti-lage.prod.ccs.gematik.solutions/d/_v5YC1HVk/ti-dashboard-verlauf-kim">TI-Dashboard der gematik</a>.
+          Gerechnet: alle Monatswerte als Differenz zweier Monatsendstände.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> PraxisBarometer Digitalisierung, eAU genutzt: 81,1 Prozent der Arztpraxen 2022, 93,9
+          Prozent 2025. Die Schwankungen folgen dem Krankenstand.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 04.11.2026</p>
+
+        <h2 id="digitale-angebote">Datensatz: Digitale Angebote hausärztlicher Praxen</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der hausärztlichen Praxen mit Online-Rezeptbestellung, Online-Terminbuchung und
+          Terminerinnerung, 2018 bis 2025, aus dem PraxisBarometer Digitalisierung über die
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/digitale-angebote-praxen">KBV-Gesundheitsdaten</a>.
+          Alle Werte belegt; Videosprechstunde und DiGA wurden nicht in allen Jahren abgefragt und fehlen deshalb.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Bitkom-Befragungen: 2019 26 Prozent, 2023 36 Prozent der Menschen ab 16 Jahren haben schon
+          einmal online einen Arzttermin vereinbart.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="epa-nutzung">Datensatz: ePA in Arzt- und Psychotherapiepraxen</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der Praxen, die die elektronische Patientenakte mindestens einmal genutzt haben, 2021 bis
+          2026, aus dem <a href="https://ti-lage.prod.ccs.gematik.solutions/d/hS_STZ744/nutzung-le">TI-Atlas der gematik</a>. Alle
+          Werte belegt.
+        </p>
+        <p>
+          <strong>Gegenläufiger Beleg:</strong> Das PraxisBarometer Digitalisierung 2025 von KBV und IGES (324 befragte Praxen)
+          nennt 90,8 Prozent mit Zugriff auf eine ePA (<a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/statistik-elektronische-patientenakte">KBV-Gesundheitsdaten</a>),
+          der TI-Atlas für 2025 59 Prozent der Arztpraxen. Vermutlich ein Effekt des Befragungszeitpunkts rund um den Start der
+          ePA für alle im April 2025; der TI-Atlas 2026 nennt 88 Prozent.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="au-faelle">Datensatz: Arbeitsunfähigkeitsfälle</h2>
+        <p>
+          <strong>Inhalt:</strong> Fälle von Arbeitsunfähigkeit der GKV-Mitglieder, 2015 bis 2024, aus der KG2-Statistik des
+          Bundesgesundheitsministeriums über die <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/arbeitsunfaehigkeit-tage-faelle">KBV-Gesundheitsdaten</a>.
+          Alle Werte belegt, in Millionen gerundet.
+        </p>
+        <p>
+          <strong>Gegenläufige Belege:</strong> Die <a href="https://www.dak.de/presse/bundesthemen/politik-unternehmensnachrichten/dak-analyse-zeigt-ursachen-fuer-rekordkrankenstand-_88050">DAK</a>
+          sieht den Sprung 2022 vor allem als Meldeeffekt der eAU, das
+          <a href="https://www.diw.de/de/diw_01.c.1008121.de/publikationen/wochenberichte/2026_20_1/anstieg_der_fehlzeiten_im_jahr_2022_liegt_nur_bedingt_an_elektronischer_krankschreibung.html">DIW</a>
+          vor allem als Folge vieler Atemwegsinfekte. Beide sehen einen Bruch in der Zeitreihe.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="erezept-quote">Datensatz: E-Rezept-Quote je Fachgruppe</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der E-Rezepte an allen Rezepten für verschreibungspflichtige Arzneimittel
+          (E-Rezept plus Papierrezept nach Muster 16) für Frauenärzte, Hausärzte, Fachinternisten und Kinderärzte, je Quartal
+          vom 1. Quartal 2024 bis zum 1. Quartal 2026. Die <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/erezept-quote">KBV</a>
+          rechnet aus den GAMSI-Daten des GKV-Spitzenverbands. Alle Werte belegt, auf 0,1 Prozentpunkte gerundet.
+        </p>
+        <p>
+          <strong>Gegenläufige Belege:</strong> Die <a href="https://www.aok.de/pp/bayern/pm/mehr-als-30-millionen-e-rezepte-im-letzten-jahr-eingeloest/">AOK Bayern</a>
+          zählt für ihre Versicherten 64 Prozent im Januar und 81 Prozent im Dezember 2024, die KBV für die KV Bayern 59,3 und
+          74,2 Prozent. Die <a href="https://www.abda.de/fileadmin/user_upload/assets/ZDF/Jahrbuch-ZDF-2025/ZDF_2025_76_77_Eingeloeste_E_Rezepte.pdf">ABDA</a>
+          nennt „mehr als 90 Prozent“ ohne Bezugsgröße. Der Unterschied liegt im Nenner: Was auf Papier bleiben muss
+          (Betäubungsmittel, Hilfsmittel), senkt die KBV-Quote.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="weiterbildung-allgemeinmedizin">Datensatz: Geförderte Weiterbildung Allgemeinmedizin</h2>
+        <p>
+          <strong>Inhalt:</strong> Ärztinnen und Ärzte in Weiterbildung zur Allgemeinmedizin mit geförderter ambulanter
+          Weiterbildung nach § 75a SGB V, Köpfe je Jahr 2015 bis 2024, für Bayern, Nordrhein-Westfalen, Baden-Württemberg und
+          Niedersachsen, aus den <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/foerderung-allgemeinmedizin">KBV-Gesundheitsdaten</a>.
+          Alle Werte belegt. Die Summe der Länder liegt ab 2017 um bis zu 89 Köpfe über dem Bundeswert (unter 1 Prozent).
+        </p>
+        <p>
+          <strong>Gegenläufige Belege:</strong> Der <a href="https://www.gkv-spitzenverband.de/media/dokumente/krankenversicherung_1/aerztliche_versorgung/richtlinien_und_vertraege/foerderung_weiterbildung/2023-12-20_EvBericht2022_gesamt.pdf">Evaluationsbericht 2022</a>
+          bestätigt die Zuwächse der Köpfe, nennt für die Vollzeitäquivalente 2020 aber +7 Prozent, wo die Gesundheitsdaten
+          einen Rückgang zeigen. Die Grafik zeigt deshalb nur Köpfe.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="apotheken-filialen">Datensatz: Apotheken ohne Filiale und Filialapotheken</h2>
+        <p>
+          <strong>Inhalt:</strong> Öffentliche Apotheken ohne Filiale (Einzelapotheken) und Filialapotheken, je Jahresende
+          2015 bis 2024, aus der ABDA-Statistik (<a href="https://www.abda.de/fileadmin/user_upload/assets/ZDF/Jahrbuch-ZDF-2025/ZDF_2025_ABDA_Statistisches_Jahrbuch.pdf">Jahrbuch 2025</a>,
+          <a href="https://www.abda.de/fileadmin/user_upload/assets/ZDF/Zahlen-Daten-Fakten-24/ABDA_ZDF_2024_Broschuere.pdf">Jahrbuch 2024</a>).
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 2016 bis 2019 linear zwischen 2015 und 2020, die Filialen 2021 als Gesamtzahl minus
+          Haupt- und Einzelapotheken; je Wert in <code>pvs-gerechnet.json</code>. Die Gesamtzahl je Jahr (über die
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/apotheken">KBV-Gesundheitsdaten</a>, ebenfalls aus der ABDA-Statistik)
+          dient als Gegenprobe: In den gerechneten Jahren fehlen der Summe 23 bis 97 Apotheken.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="kim-nutzung">Datensatz: KIM in Arzt- und Psychotherapiepraxen</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der Praxen, die KIM mindestens einmal genutzt haben, 2021 bis 2026, aus dem
+          <a href="https://ti-lage.prod.ccs.gematik.solutions/d/hS_STZ744/nutzung-le">TI-Atlas der gematik</a> (gewichtete
+          Befragung). Alle Werte belegt. Bei Arztpraxen zählt die Pflicht-eAU an die Krankenkassen mit.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> PraxisBarometer Digitalisierung von KBV und IGES, „KIM als Kommunikationsweg“: 2025
+          76,1 Prozent der Arztpraxen, 31,6 Prozent der psychotherapeutischen Praxen. Niedriger, weil nur der Austausch mit
+          Kollegen zählt, mit demselben Abstand zwischen beiden Gruppen.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="arztbrief-praxisbarometer">Datensatz: Arztbriefe digital empfangen und versendet</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der Arztpraxen, die Arztbriefe überwiegend digital empfangen bzw. versenden, 2018 bis
+          2025, aus dem <a href="https://www.kbv.de/infothek/zahlen-und-fakten/studien-und-berichte/praxisbarometer-digitalisierung">PraxisBarometer
+          Digitalisierung</a> von KBV und IGES (jeder digitale Weg außer Fax). Kein Wert ist gerechnet.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> eArztbriefe über KIM laut gematik (14,4 Millionen 2023, 45,2 Millionen 2025). Den
+          eArztbrief im engen Sinn nutzten 2025 82 Prozent der Arztpraxen mit TI-Anschluss.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="labordaten-praxisbarometer">Datensatz: Labordaten empfangen und senden</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der Arztpraxen, die Labordaten überwiegend digital empfangen bzw. senden, 2018 bis 2025,
+          aus dem <a href="https://www.kbv.de/infothek/zahlen-und-fakten/studien-und-berichte/praxisbarometer-digitalisierung">PraxisBarometer
+          Digitalisierung</a> von KBV und IGES. Eine jährliche Befragung, keine Vollerhebung. Kein Wert ist gerechnet.
+        </p>
+        <p>
+          <strong>Methodenbruch:</strong> Ab 2024 schließt die Antwort Laboraufträge ausdrücklich ein; der Anstieg beim Senden ist
+          teilweise ein Effekt der neuen Formulierung.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="aerzte-praxisform">Datensatz: Ärztinnen und Ärzte nach Praxisform</h2>
+        <p>
+          <strong>Inhalt:</strong> Personen in der vertragsärztlichen Versorgung nach Praxisform (Einzelpraxis,
+          Berufsausübungsgemeinschaft, MVZ und andere Einrichtungen), 2015 bis 2025, aus dem
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/praxen-und-aerzte-nach-praxisform">Bundesarztregister
+          der KBV</a>. Köpfe, keine Vollzeitstellen und keine Praxen.
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> alle Werte, weil psychologische Psychotherapeutinnen und -therapeuten herausgerechnet sind:
+          2016 bis 2025 als Differenz zweier Reihen des Datenportals, 2015 als Summe der ärztlichen Spalten aus Tabelle 5 der
+          Registerstatistik. Dieselbe Rechnung über Tabelle 5 ergibt für 2025 exakt die Werte des Datenportals. MVZ-Statistik und
+          Bundesarztregister zählen Personen in MVZ leicht unterschiedlich und stehen deshalb in getrennten Grafiken.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="mvz-anzahl">Datensatz: Medizinische Versorgungszentren seit 2004</h2>
+        <p>
+          <strong>Inhalt:</strong> Zahl der MVZ und der MVZ mit einem Krankenhaus als Träger, Jahresende 2004 bis 2025, aus der
+          <a href="https://www.kbv.de/documents/infothek/zahlen-und-fakten/mvz/mvz_entwicklungen.pdf">MVZ-Statistik der KBV</a>.
+          Alle Werte sind belegt.
+        </p>
+        <p>
+          <strong>Methodenbrüche:</strong> Seit 2015 sind fachgleiche MVZ erlaubt. Baden-Württemberg zählt MVZ mit mehreren
+          Betriebsstätten ab 2024 nur noch einmal. Hamburg ist 2011 bis 2013 teils mit einem älteren Stand enthalten. Ein MVZ kann
+          mehrere Träger haben; Träger sind deshalb nicht als getrennte Linien gezeigt.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="medizinstudierende">Datensatz: Medizinstudierende nach Geschlecht</h2>
+        <p>
+          <strong>Inhalt:</strong> Studierende der Humanmedizin nach Geschlecht, 2014 bis 2023, aus den
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/medizinstudierende">KBV-Gesundheitsdaten</a>
+          nach dem Statistischen Bundesamt (Tabelle 21311); 2023 entspricht dem Wintersemester 2022/23. Alle Werte belegt.
+        </p>
+        <p>
+          <strong>Zweitquelle und Auffälligkeiten:</strong> Statista nach Destatis nennt für das Wintersemester 2022/23 dieselben
+          Werte (113.383, davon 73.244 Frauen). 2018 fehlen in der Summe der Geschlechter 57 Studierende. Bei den
+          Studienanfängern meldet die KBV für 2017 offenbar einen falschen Frauenwert (9.149 bei 9.660 insgesamt); diese Reihe
+          ist deshalb nicht verwendet.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="facharzt-anerkennungen">Datensatz: Facharztanerkennungen</h2>
+        <p>
+          <strong>Inhalt:</strong> Facharztanerkennungen je Jahr nach KBV-Arztgruppe (Internisten, Allgemeinärzte, Chirurgen,
+          Kinderärzte), 2016 bis 2025, aus den <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/weiterbildungsabschluesse">KBV-Gesundheitsdaten</a>,
+          die die Ärztestatistik der Bundesärztekammer wiedergeben. Alle Werte belegt; Allgemeinmedizin 2023 bis 2025 gegen
+          BÄK-Tabelle 9 geprüft. Rohdaten in <code>data/raw/weiterbildung.csv</code>.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> geförderte Weiterbildungsärzte Allgemeinmedizin laut KBV-Evaluationsberichten, 5.449 (2015)
+          auf 10.752 (2024).
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="frauenanteil">Datensatz: Frauenanteil nach Fachgruppe</h2>
+        <p>
+          <strong>Inhalt:</strong> Anteil der Frauen unter Vertragsärzten und -psychotherapeuten je Fachgruppe, 2016 bis 2025, aus
+          den <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/alter-und-geschlecht">KBV-Gesundheitsdaten</a>
+          (Bundesarztregister). Alle Werte belegt, auf 0,1 Prozent gerundet; Rohdaten in <code>data/raw/aerzteschaft-geschlecht.csv</code>.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Ärztestatistik der Bundesärztekammer 2025: 225.397 Ärztinnen unter 446.120 berufstätigen
+          Ärztinnen und Ärzten (50,5 Prozent, einschließlich Kliniken, ohne Psychotherapeuten).
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="einzelpraxen">Datensatz: Einzelpraxen nach Versorgungsbereich</h2>
+        <p>
+          <strong>Inhalt:</strong> Hausärztliche, fachärztliche und psychotherapeutische Einzelpraxen, Jahresende 2015 bis
+          2025, aus dem <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/praxen-und-aerzte-nach-praxisform">Bundesarztregister
+          der KBV</a>. 2015 bis 2024 belegt (Datenportal).
+        </p>
+        <p>
+          <strong>Gerechnet:</strong> 2025, aus Tabelle 5 der Registerstatistik summiert (Inhaber mit und ohne angestellte
+          Ärzte; hausärztlich einschließlich Kinder- und Jugendmedizin, fachärztlich als Rest). Gegenprobe: Für 2015 liefern
+          Tabelle 5 und Datenportal dieselben Zahlen.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="mvz-typen">Datensatz: MVZ nach Grundtyp</h2>
+        <p>
+          <strong>Inhalt:</strong> MVZ nur mit Angestellten, gemischt und nur mit Vertragsärzten, Jahresende 2006 bis 2025, aus
+          der <a href="https://www.kbv.de/documents/infothek/zahlen-und-fakten/mvz/mvz_entwicklungen.pdf">MVZ-Statistik der KBV</a>.
+          Alle Werte belegt.
+        </p>
+        <p>
+          <strong>Abweichung in der Quelle:</strong> Vor 2006 fehlen in der Summe der Grundtypen bis zu 13 Prozent der MVZ,
+          deshalb beginnt die Reihe 2006. 2011 bis 2013 liegt die Summe leicht darunter, weil die KV Hamburg mit älterem Stand
+          gemeldet hat. Übernommen wie veröffentlicht. Zweitquelle für die Richtung: Angestellte und Vertragsärzte
+          in MVZ laut MVZ-Statistik und Bundesarztregister.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="tss-vermittlungen">Datensatz: Terminservicestellen</h2>
+        <p>
+          <strong>Inhalt:</strong> Von den Terminservicestellen vermittelte Termine je Jahr für Fachinternisten, Nervenärzte,
+          Chirurgen und Orthopäden sowie Augenärzte, 2016 bis 2025, aus den
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/statistik-terminservicestellen">Evaluationsberichten
+          der KBV</a>. Alle Werte belegt; Gruppen, die erst später vermittelt wurden, fehlen.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Zentralinstitut, Grafik des Monats 05/2024: rund 2,6 Millionen gemeldete Termine in zwölf
+          Monaten, 45 Prozent davon gebucht.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="praxisnetze">Datensatz: Anerkannte Praxisnetze</h2>
+        <p>
+          <strong>Inhalt:</strong> Nach § 87b SGB V anerkannte Praxisnetze nach Stufe, 2015 bis 2024, aus dem
+          <a href="https://www.kbv.de/infothek/zahlen-und-fakten/gesundheitsdaten/statistik-praxisnetze">KBV-Monitoring</a>. Alle
+          Werte belegt; die drei Stufen ergeben in jedem Jahr die Gesamtzahl.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Agentur deutscher Arztnetze, Stellungnahme zum TSVG 2018: rund 400 vertretene Arztnetze –
+          zum Vergleich 72 anerkannte im selben Jahr.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="mvz-angestellte">Datensatz: Angestellte und Vertragsärzte im MVZ</h2>
+        <p>
+          <strong>Inhalt:</strong> Ärztinnen, Ärzte und Psychotherapeuten in MVZ nach Status (angestellt, mit eigener
+          Zulassung), Jahresende 2004 bis 2025, aus der
+          <a href="https://www.kbv.de/documents/infothek/zahlen-und-fakten/mvz/mvz_entwicklungen.pdf">MVZ-Statistik der KBV</a>.
+          Alle Werte belegt.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Bundesarztregister, Tabelle 5, Ende 2025: 31.168 Angestellte und 1.717 mit Zulassung in
+          MVZ und anderen Einrichtungen, ohne Psychotherapeuten. Andere Abgrenzung, deshalb nicht in derselben Grafik.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2 id="labor-aerzte">Datensatz: Laborärztinnen und -ärzte</h2>
+        <p>
+          <strong>Inhalt:</strong> Personen der Fachgruppe Laboratoriumsmedizin einschließlich Mikrobiologie im Bundesarztregister,
+          angestellt in MVZ und Einrichtungen sowie mit eigener Zulassung, Jahresende 2013 bis 2025. Alle Werte der Grafik sind
+          belegt.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Die Ärztestatistik der Bundesärztekammer zeigt für Fachärztinnen und Fachärzte für
+          Laboratoriumsmedizin dieselbe Richtung, hat aber 2021/2022 einen Sprung bei den Niedergelassenen, den das
+          Bundesarztregister nicht zeigt. Gerechnet sind nur Anteile und die Summen aus Tabelle 5 im Artikel.
+        </p>
+        <p><strong>Erstellt</strong> 22.10.2026 · <strong>geprüft</strong> 22.10.2026</p>
+
+        <h2 id="labor-honorar">Datensatz: Laborhonorar je Quartal</h2>
+        <p>
+          <strong>Inhalt:</strong> GKV-Honorarumsatz der Abrechnungsgruppe Laboratoriumsmedizin je Quartal, 1/2013 bis 3/2024,
+          aus dem <a href="https://www.kbv.de/documents/infothek/zahlen-und-fakten/honorarbericht/honorarbericht-tabellen.xlsx">Honorarbericht
+          der KBV</a> (Bund). Alle Quartale belegt, nur gerundet; 4/2024 fehlt in der Quelle.
+        </p>
+        <p>
+          <strong>Zweitquelle:</strong> Abrechnungshäufigkeit der SARS-CoV-2-PCR (GOP 32816) laut KBV, mit denselben Spitzen
+          im 4. Quartal 2020 und 1. Quartal 2022. Privat- und Krankenhausumsatz sind nicht enthalten.
+        </p>
+        <p><strong>Erstellt</strong> 29.10.2026 · <strong>geprüft</strong> 29.10.2026</p>
+
+        <h2>Was gerechnet ist</h2>
+        <ul>
+          <li>Summen über alle Zeilen, je Hersteller und je Einsatzbereich.</li>
+          <li>Anteile in Prozent, jeweils an allen Installationen des Stichtags.</li>
+          <li>Veränderungen zwischen zwei Stichtagen, absolut und in Prozent.</li>
+          <li>Fehlt für einen Stichtag eine Zahl, wird sie zwischen den beiden benachbarten Belegen linear gerechnet und
+            im Datensatz, im Artikel und im LinkedIn-Post als gerechnet markiert.</li>
+        </ul>
+
+        <h2>Korrekturen</h2>
+        <p>
+          Hier steht künftig jede Korrektur mit Datum. Bisher keine. Wer einen Fehler findet, erreicht Thomas Freimoser
+          über die Angaben unter <a href="../ueber-das-projekt.html">Über das Projekt</a>.
+        </p>
+        <p>
+          Zu den Artikeln: <a href="praxisverwaltungssysteme-deutschland.html">Praxisverwaltungssysteme in Deutschland</a> ·
+          <a href="begriffe-praxis-it.html">Begriffe der Praxis-IT</a> · <a href="../beitrag/">alle Artikel</a>. Die Datenherkunft der Schwesterseite steht unter
+          <a href="https://tiermedizin-in-zahlen.org/artikel/datenherkunft.html">Tiermedizin in Zahlen</a>.
+        </p>
+      </article>
+    </main>
+
+    <footer class="seite">
+      <div class="wrap">
+        <p><strong>Humanmedizin in Zahlen</strong> · Zahlen zu Arztpraxen, Praxissoftware und Gesundheits-IT in Deutschland, jede mit Quelle. Ein Projekt von Thomas Freimoser, Geschäftsführer der <a href="https://flexchange-medical.de/">FleXChange Medical GmbH</a>.</p>
+        <p>
+          <a href="../">Startseite</a> · <a href="../beitrag/">Alle Artikel</a> · <a href="../artikel/praxisverwaltungssysteme-deutschland.html">Praxisverwaltungssysteme</a> ·
+          <a href="../artikel/datenherkunft.html">Datenherkunft</a> · <a href="../artikel/begriffe-praxis-it.html">Begriffe</a> · <a href="../studio/#redaktionsplan">Redaktionsplan</a>
+        </p>
+        <p>Schwesterseite: <a href="https://tiermedizin-in-zahlen.org/">Tiermedizin in Zahlen</a> – dieselbe Methode für Tierärzte, Tierarztpraxen und Haustiere, vom selben Herausgeber.</p>
+        <p class="recht"><a href="../ueber-das-projekt.html">Über das Projekt</a> · <a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a></p>
+      </div>
+    </footer>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Woher die Zahlen kommen: Datenherkunft aller Datensätze",
+        "image": "https://humanmedizin-in-zahlen.org/og/artikel-datenherkunft.png",
+        "description": "Für jeden Datensatz von Humanmedizin in Zahlen: Quelle, Zeitraum, Annahmen, was gerechnet ist und wann zuletzt gegen die Quelle geprüft.",
+        "inLanguage": "de-DE",
+        "datePublished": "2026-10-20",
+        "dateModified": "2026-10-29",
+        "author": { "@type": "Person", "@id": "https://humanmedizin-in-zahlen.org/ueber-das-projekt.html#thomas-freimoser", "name": "Thomas Freimoser", "url": "https://humanmedizin-in-zahlen.org/ueber-das-projekt.html" },
+        "about": [
+          { "@type": "Thing", "name": "KBV-Installationsstatistik der Praxisverwaltungssysteme" },
+          { "@type": "Thing", "name": "KBV-Zulassungsverzeichnisse" },
+          { "@type": "Thing", "name": "Bundesarztregister" },
+          { "@type": "Thing", "name": "MVZ-Statistik der KBV" },
+          { "@type": "Thing", "name": "TI-Dashboard der gematik" }
+        ]
+      }
+    </script>
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Humanmedizin in Zahlen", "item": "https://humanmedizin-in-zahlen.org/"}, {"@type": "ListItem", "position": 2, "name": "Alle Artikel", "item": "https://humanmedizin-in-zahlen.org/beitrag/"}, {"@type": "ListItem", "position": 3, "name": "Datenherkunft", "item": "https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html"}]}</script>
+  </body>
+</html>

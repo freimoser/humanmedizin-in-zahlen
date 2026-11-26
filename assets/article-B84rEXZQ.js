@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./consent-hyGHVgHl.js";var n=document.querySelector(`footer a[href$="datenschutz.html"]`)?.getAttribute(`href`)??`/datenschutz.html`;e(t.gaId,n);

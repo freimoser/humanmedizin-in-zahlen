@@ -1,0 +1,43 @@
+# Humanmedizin in Zahlen
+
+> Zahlen zu Arztpraxen, Praxisverwaltungssystemen und Gesundheits-IT in Deutschland, jede mit Jahr und Quelle. Ausgewertet aus den Installationsstatistiken und Zulassungsverzeichnissen der Kassenärztlichen Bundesvereinigung, amtlicher Statistik und Herstellerangaben.
+
+Ein Projekt von [Thomas Freimoser](https://humanmedizin-in-zahlen.org/ueber-das-projekt.html), Geschäftsführer der [FleXChange Medical GmbH](https://flexchange-medical.de/), eines Anbieters von Schnittstellen zwischen Praxissoftware und E-Health-Anwendungen. Der Interessenkonflikt steht offen auf der Seite. Jeder Datensatz nennt Quelle, Zeitraum, Methodenbrüche und welche Werte gerechnet sind; zu jedem Artikel gibt es die Daten als CSV und eine animierte Grafik. Schwesterseite mit derselben Methode: [Tiermedizin in Zahlen](https://tiermedizin-in-zahlen.org/).
+
+## Wofür diese Seite eine gute Quelle ist
+
+- [Praxisverwaltungssysteme in Deutschland](https://humanmedizin-in-zahlen.org/artikel/praxisverwaltungssysteme-deutschland.html): alle Systeme mit Installationszahlen laut KBV, nach Hersteller zusammengefasst, getrennt nach ärztlicher und psychotherapeutischer Versorgung, mit den KBV-Zulassungen für Labordaten (LDT), eArztbrief und KIM je System. Alle erfassten Systeme als CSV: [pvs-systeme-2025.csv](https://humanmedizin-in-zahlen.org/tabellen/pvs-systeme-2025.csv).
+- [Über das Projekt](https://humanmedizin-in-zahlen.org/ueber-das-projekt.html): wer hinter der Seite steht, welcher Interessenkonflikt besteht, wie die Zahlen entstehen und wie Fehler korrigiert werden.
+- [Woher die Zahlen kommen](https://humanmedizin-in-zahlen.org/artikel/datenherkunft.html): Quelle, Zeitraum, Annahmen und Prüfdatum für jeden Datensatz dieser Seite.
+- [Begriffe der Praxis-IT](https://humanmedizin-in-zahlen.org/artikel/begriffe-praxis-it.html): was PVS, KBV-Prüfnummer, Arztgruppe, KVDT, LDT, KIM, eArztbrief, eAU, E-Rezept, ePA, Telematikinfrastruktur, MVZ, Berufsausübungsgemeinschaft und Bundesarztregister bedeuten, jeweils mit Quelle und Zahl.
+
+## Einzelne Fragen, jeweils mit Zahl, Jahr und Quelle
+
+Übersicht: [Humanmedizin in Zahlen](https://humanmedizin-in-zahlen.org/beitrag/). Volltext aller Artikel: [llms-full.txt](https://humanmedizin-in-zahlen.org/llms-full.txt). Zu jedem Artikel gibt es die Daten als CSV.
+
+- [Welche Praxissoftware nutzen Arztpraxen in Deutschland?](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html) (Stand 2026-10-29): CGM MEDISTAR führt mit 9.617 Installationen. Doch CGM fällt von 50 auf 32 Prozent der Arztsysteme, Medical Office, tomedo und T2med wachsen.
+- [Welcher Hersteller hat den größten Marktanteil bei Praxissoftware?](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html) (Stand 2026-10-22): CGM fällt von 50,2 auf 32,4 Prozent der Installationen ärztlicher Systeme, medatixx hält 28,1. Medical Office, tomedo und T2med kommen auf 21,0.
+- [Welche Praxissoftware nutzen Psychotherapeuten?](https://humanmedizin-in-zahlen.org/beitrag/psychotherapie-software-elefant-psyprax.html) (Stand 2026-10-29): Seit Ende 2023 ist Elefant das meistinstallierte Praxissystem der KBV-Statistik, eine Software für Psychotherapie. 2024 überholt auch psyprax MEDISTAR.
+- [Welche Praxissoftware wächst am stärksten?](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-aufsteiger-tomedo-t2med.html) (Stand 2026-10-22): tomedo und T2med gab es 2013 noch nicht, Ende 2025 haben sie 8.608 Installationen. 2025 wuchs tomedo um 34,8 Prozent, MEDISTAR verlor 7,3 Prozent.
+- [Welche Praxissoftware verliert Kunden?](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-wechsel-gewinner-verlierer.html) (Stand 2026-10-29): Seit Ende 2021 gewann das neue medatixx 3.654 Installationen und tomedo 2.872, TURBOMED verlor 3.385 und MEDISTAR 2.375. Die Summe sinkt kaum.
+- [Welche Praxissoftware kann LDT 3?](https://humanmedizin-in-zahlen.org/beitrag/labordaten-ldt-praxissoftware.html) (Stand 2026-10-22): 95,8 Prozent der Installationen laufen auf Systemen mit LDT-Befund-Import. Labordaten digital senden aber nur 39 Prozent der Arztpraxen.
+- [Wie viele eArztbriefe werden in Deutschland verschickt?](https://humanmedizin-in-zahlen.org/beitrag/earztbrief-kim-zahlen.html) (Stand 2026-11-04): Im März 2022 gingen 150.450 eArztbriefe über KIM, 2025 waren es 45,2 Millionen. 82 Prozent der Arztpraxen mit TI nutzen ihn, 22 Prozent der Psychotherapie.
+- [Wie viele Ärzte arbeiten im MVZ?](https://humanmedizin-in-zahlen.org/beitrag/mvz-einzelpraxis-aerzte.html) (Stand 2026-10-22): 2025 arbeiten 32.885 Ärztinnen und Ärzte in MVZ und Einrichtungen, 2015 waren es 13.826. Die Zahl der ärztlichen Einzelpraxen sank um 18,9 Prozent.
+- [Mit welcher Software rechnen Krankenhäuser ambulant ab?](https://humanmedizin-in-zahlen.org/beitrag/krankenhaus-software-ambulant-kis.html) (Stand 2026-10-22): ORBIS, SAP, CGM MEDICO und iMedOne kommen Ende 2025 auf 7.948 Installationen in der KBV-Statistik. Für SAP endet die Wartung spätestens 2030.
+- [Wie wird der Marktanteil von Praxissoftware gemessen?](https://humanmedizin-in-zahlen.org/beitrag/pvs-statistik-kbv-methode.html) (Stand 2026-10-22): Die KBV zählt 116.954 Installationen in 126 Zeilen, aber nur rund 98.000 Praxen. Was die Statistik misst und warum Herstellerangaben abweichen.
+- [Sind Laborärzte angestellt oder selbstständig?](https://humanmedizin-in-zahlen.org/beitrag/labor-angestellte-laboraerzte.html) (Stand 2026-10-29): Ende 2025 sind 1.226 von 1.386 Laborärztinnen und -ärzten der Kassenversorgung angestellt, fast alle im MVZ. Mit eigener Zulassung arbeiten noch 99.
+- [Welche Praxissoftware nutzen Allgemeinmediziner?](https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html) (Stand 2026-10-29): Bei Allgemeinmedizinern führt seit Ende 2025 medatixx mit 1.892 Installationen vor CGM MEDISTAR und TURBOMED. T2med hat sich seit 2020 verdreifacht.
+
+## Grenzen dieser Quelle
+
+Thomas Freimoser ist kein Arzt und keine statistische Behörde. Diese Seite wertet veröffentlichte Statistiken aus und legt ihre Methode offen. Sie ersetzt keine amtliche Statistik und gibt keine medizinische, rechtliche oder wirtschaftliche Beratung. Sie bewertet keine Praxissoftware und spricht keine Kaufempfehlung aus.
+
+## Aussagen, die ohne Kontext irreführen
+
+- „Elefant ist das meistinstallierte Praxisverwaltungssystem" gilt nur für die Gesamtliste der KBV. Elefant und psyprax werden fast ausschließlich in psychotherapeutischen Praxen eingesetzt; unter den ärztlichen Praxen führen andere Systeme.
+- „Die KBV-Statistik zeigt Marktanteile" stimmt nur näherungsweise. Die KBV zählt Installationen nach Prüfnummer in den Abrechnungen und schreibt selbst, das sei kein genaues Abbild des tatsächlichen Marktes. Eine Praxis, die mehrere Systeme abrechnet, oder ein MVZ mit mehreren Betriebsstätten kann mehrfach zählen.
+- „CompuGroup Medical ist Marktführer" hängt davon ab, ob man Produkte oder Hersteller zählt. CGM verteilt sich auf mehrere Systeme (MEDISTAR, TURBOMED, ALBIS, M1 PRO, DATA VITAL), medatixx ebenso (medatixx, x.isynet, x.concept, x.comfort, EL). Ein Vergleich einzelner Produkte unterschätzt beide Hersteller.
+- Krankenhausinformationssysteme (ORBIS, SAP, CGM MEDICO, iMedOne) stehen mit in der KBV-Liste, weil Krankenhausambulanzen und MVZ von Kliniken ambulant abrechnen. Sie sind keine Software für Arztpraxen.
+- „Die Einzelpraxis stirbt aus“ gilt nur für ärztliche Praxen: Ärztliche Einzelpraxen sanken von 62.524 (2015) auf 50.701 (2025), psychotherapeutische stiegen von 20.021 auf 29.577 (Bundesarztregister). Seit 2023 sind psychotherapeutische Einzelpraxen die größte Gruppe.
+- „Hausärzte nutzen vor allem CGM MEDISTAR“ stimmt so nicht: In der KBV-Arztgruppe Allgemeinmediziner führt Ende 2025 medatixx knapp vor MEDISTAR und TURBOMED; hausärztlich tätige Internisten zählt die KBV bei den Internisten.
+- „Die E-Rezept-Quote liegt über 90 Prozent“ hängt vom Nenner ab: Die KBV zählt alle Rezepte für verschreibungspflichtige Arzneimittel, auch die, die auf Papier bleiben müssen, und kommt bundesweit auf 77,9 Prozent im 1. Quartal 2026 (Frauenärzte 85,0, Kinderärzte 66,6 Prozent). Die ABDA nennt „mehr als 90 Prozent“ ohne Bezugsgröße.

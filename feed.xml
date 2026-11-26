@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
+  <title>Humanmedizin in Zahlen</title>
+  <subtitle>Zahlen zu Arztpraxen, Praxisverwaltungssystemen und Gesundheits-IT in Deutschland, jede mit Jahr und Quelle.</subtitle>
+  <link href="https://humanmedizin-in-zahlen.org/" />
+  <link rel="self" href="https://humanmedizin-in-zahlen.org/feed.xml" />
+  <id>https://humanmedizin-in-zahlen.org/</id>
+  <updated>2026-11-04T00:00:00Z</updated>
+  <author><name>Thomas Freimoser</name></author>
+  <entry>
+    <title>eArztbrief über KIM: 45,2 Millionen im Jahr 2025</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/earztbrief-kim-zahlen.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/earztbrief-kim-zahlen.html</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>Im März 2022 gingen 150.450 eArztbriefe über KIM, 2025 waren es 45,2 Millionen. 82 Prozent der Arztpraxen mit TI nutzen ihn, 22 Prozent der Psychotherapie.</summary>
+  </entry>
+  <entry>
+    <title>Praxissoftware in Arztpraxen: Marktanteile seit 2013</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-arztpraxen-marktanteile.html</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <summary>CGM MEDISTAR führt mit 9.617 Installationen. Doch CGM fällt von 50 auf 32 Prozent der Arztsysteme, Medical Office, tomedo und T2med wachsen.</summary>
+  </entry>
+  <entry>
+    <title>Psychotherapie-Software: Elefant vor MEDISTAR</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/psychotherapie-software-elefant-psyprax.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/psychotherapie-software-elefant-psyprax.html</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <summary>Seit Ende 2023 ist Elefant das meistinstallierte Praxissystem der KBV-Statistik, eine Software für Psychotherapie. 2024 überholt auch psyprax MEDISTAR.</summary>
+  </entry>
+  <entry>
+    <title>Praxissoftware wechseln: Gewinner und Verlierer seit 2021</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-wechsel-gewinner-verlierer.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-wechsel-gewinner-verlierer.html</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <summary>Seit Ende 2021 gewann das neue medatixx 3.654 Installationen und tomedo 2.872, TURBOMED verlor 3.385 und MEDISTAR 2.375. Die Summe sinkt kaum.</summary>
+  </entry>
+  <entry>
+    <title>Laborärzte: 88,5 Prozent angestellt, kaum noch Praxen</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/labor-angestellte-laboraerzte.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/labor-angestellte-laboraerzte.html</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <summary>Ende 2025 sind 1.226 von 1.386 Laborärztinnen und -ärzten der Kassenversorgung angestellt, fast alle im MVZ. Mit eigener Zulassung arbeiten noch 99.</summary>
+  </entry>
+  <entry>
+    <title>Praxissoftware der Allgemeinmediziner: medatixx vorn</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-allgemeinmediziner.html</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <summary>Bei Allgemeinmedizinern führt seit Ende 2025 medatixx mit 1.892 Installationen vor CGM MEDISTAR und TURBOMED. T2med hat sich seit 2020 verdreifacht.</summary>
+  </entry>
+  <entry>
+    <title>Praxissoftware-Hersteller: CGM, medatixx und die Neuen</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-hersteller-cgm-medatixx.html</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <summary>CGM fällt von 50,2 auf 32,4 Prozent der Installationen ärztlicher Systeme, medatixx hält 28,1. Medical Office, tomedo und T2med kommen auf 21,0.</summary>
+  </entry>
+  <entry>
+    <title>Praxissoftware-Aufsteiger: tomedo, T2med und Co.</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-aufsteiger-tomedo-t2med.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/praxissoftware-aufsteiger-tomedo-t2med.html</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <summary>tomedo und T2med gab es 2013 noch nicht, Ende 2025 haben sie 8.608 Installationen. 2025 wuchs tomedo um 34,8 Prozent, MEDISTAR verlor 7,3 Prozent.</summary>
+  </entry>
+  <entry>
+    <title>Labordaten in der Arztpraxis: LDT-Befunde ja, Aufträge kaum</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/labordaten-ldt-praxissoftware.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/labordaten-ldt-praxissoftware.html</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <summary>95,8 Prozent der Installationen laufen auf Systemen mit LDT-Befund-Import. Labordaten digital senden aber nur 39 Prozent der Arztpraxen.</summary>
+  </entry>
+  <entry>
+    <title>MVZ wachsen, ärztliche Einzelpraxen schrumpfen</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/mvz-einzelpraxis-aerzte.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/mvz-einzelpraxis-aerzte.html</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <summary>2025 arbeiten 32.885 Ärztinnen und Ärzte in MVZ und Einrichtungen, 2015 waren es 13.826. Die Zahl der ärztlichen Einzelpraxen sank um 18,9 Prozent.</summary>
+  </entry>
+  <entry>
+    <title>Krankenhaus-Software in der ambulanten Abrechnung</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/krankenhaus-software-ambulant-kis.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/krankenhaus-software-ambulant-kis.html</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <summary>ORBIS, SAP, CGM MEDICO und iMedOne kommen Ende 2025 auf 7.948 Installationen in der KBV-Statistik. Für SAP endet die Wartung spätestens 2030.</summary>
+  </entry>
+  <entry>
+    <title>Wer zählt die Praxissoftware? Die KBV-Statistik erklärt</title>
+    <link href="https://humanmedizin-in-zahlen.org/beitrag/pvs-statistik-kbv-methode.html" />
+    <id>https://humanmedizin-in-zahlen.org/beitrag/pvs-statistik-kbv-methode.html</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <summary>Die KBV zählt 116.954 Installationen in 126 Zeilen, aber nur rund 98.000 Praxen. Was die Statistik misst und warum Herstellerangaben abweichen.</summary>
+  </entry>
+</feed>
